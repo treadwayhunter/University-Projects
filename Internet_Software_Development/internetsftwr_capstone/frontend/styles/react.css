@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+html {
+    height: 100vh;
+    width: 100vw;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #84a1c4;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+    padding: 16px;
+}
+
+.book {
+    height: 400px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 6px;
+    margin: 8px;
+    background-color: whitesmoke;
+    padding: 8px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.book.blur > h2,
+.book.blur > h4,
+.book.blur > h5,
+.book.blur > button,
+.book.blur > .spacer,
+.book.blur > .bullet {
+    filter: blur(4px);
+    pointer-events: none;
+}
+
+.book-overlay {
+    height: 200px;
+    width: 100%;
+    background-color: whitesmoke;
+    border: 3px solid black;
+    border-radius: 8px;
+    filter: blur(0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.book-overlay > input {
+    width: 80%;
+}
+
+.overlay-button-box {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.book > .spacer {
+    background-color: black;
+    max-height: 3px;
+    min-height: 3px;
+    width: 80%;
+}
+
+.book > .bullet {
+    background-color: black;
+    height: 6px;
+    width: 6px;
+    margin: 3px;
+    border-radius: 50%;
+}
+
+.book > button {
+    margin-top: 10px;
+}
+
+.main > ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+}

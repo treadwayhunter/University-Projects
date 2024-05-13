@@ -1,0 +1,3 @@
+dataID,RAW_FILE,RATINGS_NO,STAT_FILE
+test2,test2.csv,1,ratingSummary_test2.csv
+test,test.csv,5,ratingSummary_test.csv

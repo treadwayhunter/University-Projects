@@ -1,0 +1,436 @@
+Player 0: Target Card 7
+Player 1: hand (10)
+Player 1: draws 10
+Player 1: discards 10 at random
+Player 1: hand (10)
+DECK: 11 5 4 1 9 2 8 12 2 3 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 
+Player 2: hand (4)
+Player 2: draws 11
+Player 2: discards 11 at random
+Player 2: hand (4)
+DECK: 5 4 1 9 2 8 12 2 3 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 
+Player 3: hand (6)
+Player 3: draws 5
+Player 3: discards 6 at random
+Player 3: hand (5)
+DECK: 4 1 9 2 8 12 2 3 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 
+Player 4: hand (11)
+Player 4: draws 4
+Player 4: discards 11 at random
+Player 4: hand (4)
+DECK: 1 9 2 8 12 2 3 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 
+Player 5: hand (13)
+Player 5: draws 1
+Player 5: discards 13 at random
+Player 5: hand (1)
+DECK: 9 2 8 12 2 3 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 
+Player 1: hand (10)
+Player 1: draws 9
+Player 1: discards 10 at random
+Player 1: hand (9)
+DECK: 2 8 12 2 3 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 
+Player 2: hand (4)
+Player 2: draws 2
+Player 2: discards 2 at random
+Player 2: hand (4)
+DECK: 8 12 2 3 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 
+Player 3: hand (5)
+Player 3: draws 8
+Player 3: discards 8 at random
+Player 3: hand (5)
+DECK: 12 2 3 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 
+Player 4: hand (4)
+Player 4: draws 12
+Player 4: discards 12 at random
+Player 4: hand (4)
+DECK: 2 3 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 
+Player 5: hand (1)
+Player 5: draws 2
+Player 5: discards 2 at random
+Player 5: hand (1)
+DECK: 3 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 
+Player 1: hand (9)
+Player 1: draws 3
+Player 1: discards 9 at random
+Player 1: hand (3)
+DECK: 3 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 
+Player 2: hand (4)
+Player 2: draws 3
+Player 2: discards 3 at random
+Player 2: hand (4)
+DECK: 12 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 
+Player 3: hand (5)
+Player 3: draws 12
+Player 3: discards 12 at random
+Player 3: hand (5)
+DECK: 4 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 
+Player 4: hand (4)
+Player 4: draws 4
+Player 4: discards 4 at random
+Player 4: hand (4)
+DECK: 2 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 
+Player 5: hand (1)
+Player 5: draws 2
+Player 5: discards 2 at random
+Player 5: hand (1)
+DECK: 10 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 
+Player 1: hand (3)
+Player 1: draws 10
+Player 1: discards 10 at random
+Player 1: hand (3)
+DECK: 6 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 
+Player 2: hand (4)
+Player 2: draws 6
+Player 2: discards 6 at random
+Player 2: hand (4)
+DECK: 10 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 
+Player 3: hand (5)
+Player 3: draws 10
+Player 3: discards 10 at random
+Player 3: hand (5)
+DECK: 3 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 
+Player 4: hand (4)
+Player 4: draws 3
+Player 4: discards 4 at random
+Player 4: hand (3)
+DECK: 8 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 
+Player 5: hand (1)
+Player 5: draws 8
+Player 5: discards 1 at random
+Player 5: hand (8)
+DECK: 2 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 1 
+Player 1: hand (3)
+Player 1: draws 2
+Player 1: discards 2 at random
+Player 1: hand (3)
+DECK: 8 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 1 2 
+Player 2: hand (4)
+Player 2: draws 8
+Player 2: discards 8 at random
+Player 2: hand (4)
+DECK: 12 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 1 2 8 
+Player 3: hand (5)
+Player 3: draws 12
+Player 3: discards 5 at random
+Player 3: hand (12)
+DECK: 1 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 1 2 8 5 
+Player 4: hand (3)
+Player 4: draws 1
+Player 4: discards 3 at random
+Player 4: hand (1)
+DECK: 11 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 1 2 8 5 3 
+Player 5: hand (8)
+Player 5: draws 11
+Player 5: discards 8 at random
+Player 5: hand (11)
+DECK: 4 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 1 2 8 5 3 8 
+Player 1: hand (3)
+Player 1: draws 4
+Player 1: discards 4 at random
+Player 1: hand (3)
+DECK: 6 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 1 2 8 5 3 8 4 
+Player 2: hand (4)
+Player 2: draws 6
+Player 2: discards 6 at random
+Player 2: hand (4)
+DECK: 5 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 1 2 8 5 3 8 4 6 
+Player 3: hand (12)
+Player 3: draws 5
+Player 3: discards 12 at random
+Player 3: hand (5)
+DECK: 7 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 1 2 8 5 3 8 4 6 12 
+Player 4: hand (1)
+Player 4: draws 7
+Player 4: hand (1,7) <> Target Card is 7
+Player 4: wins round 0
+DECK: 1 5 9 3 9 1 6 13 7 8 12 5 11 13 13 9 7 10 11 6 11 13 10 2 8 12 2 9 3 12 4 2 10 6 10 4 1 2 8 5 3 8 4 6 12 
+Player 5: lost round 0
+Player 1: lost round 0
+Player 2: lost round 0
+Player 3: lost round 0
+Player 0: Round ends
+Player 1: Target Card 4
+Player 2: hand (5)
+Player 2: draws 10
+Player 2: discards 10 at random
+Player 2: hand (5)
+DECK: 2 1 8 2 4 1 7 9 11 2 5 7 13 12 9 5 13 9 5 12 13 11 9 6 8 8 11 10 2 3 12 3 4 6 4 6 8 13 1 10 1 11 10 7 3 10 
+Player 3: hand (6)
+Player 3: draws 2
+Player 3: discards 2 at random
+Player 3: hand (6)
+DECK: 1 8 2 4 1 7 9 11 2 5 7 13 12 9 5 13 9 5 12 13 11 9 6 8 8 11 10 2 3 12 3 4 6 4 6 8 13 1 10 1 11 10 7 3 10 2 
+Player 4: hand (3)
+Player 4: draws 1
+Player 4: discards 3 at random
+Player 4: hand (1)
+DECK: 8 2 4 1 7 9 11 2 5 7 13 12 9 5 13 9 5 12 13 11 9 6 8 8 11 10 2 3 12 3 4 6 4 6 8 13 1 10 1 11 10 7 3 10 2 3 
+Player 5: hand (7)
+Player 5: draws 8
+Player 5: discards 7 at random
+Player 5: hand (8)
+DECK: 2 4 1 7 9 11 2 5 7 13 12 9 5 13 9 5 12 13 11 9 6 8 8 11 10 2 3 12 3 4 6 4 6 8 13 1 10 1 11 10 7 3 10 2 3 7 
+Player 0: hand (12)
+Player 0: draws 2
+Player 0: discards 12 at random
+Player 0: hand (2)
+DECK: 4 1 7 9 11 2 5 7 13 12 9 5 13 9 5 12 13 11 9 6 8 8 11 10 2 3 12 3 4 6 4 6 8 13 1 10 1 11 10 7 3 10 2 3 7 12 
+Player 2: hand (5)
+Player 2: draws 4
+Player 2: hand (5,4) <> Target Card is 4
+Player 2: wins round 1
+DECK: 1 7 9 11 2 5 7 13 12 9 5 13 9 5 12 13 11 9 6 8 8 11 10 2 3 12 3 4 6 4 6 8 13 1 10 1 11 10 7 3 10 2 3 7 12 
+Player 3: lost round 1
+Player 4: lost round 1
+Player 5: lost round 1
+Player 0: lost round 1
+Player 1: Round ends
+Player 2: Target Card 5
+Player 3: hand (13)
+Player 3: draws 7
+Player 3: discards 13 at random
+Player 3: hand (7)
+DECK: 5 9 4 7 12 3 13 11 12 4 8 4 8 6 2 13 6 11 12 6 11 13 8 9 10 1 11 7 2 5 12 2 6 7 10 1 9 9 1 10 1 2 10 4 8 13 
+Player 4: hand (3)
+Player 4: draws 5
+Player 4: hand (3,5) <> Target Card is 5
+Player 4: wins round 2
+DECK: 9 4 7 12 3 13 11 12 4 8 4 8 6 2 13 6 11 12 6 11 13 8 9 10 1 11 7 2 5 12 2 6 7 10 1 9 9 1 10 1 2 10 4 8 13 
+Player 5: lost round 2
+Player 0: lost round 2
+Player 1: lost round 2
+Player 3: lost round 2
+Player 2: Round ends
+Player 3: Target Card 7
+Player 4: hand (13)
+Player 4: draws 4
+Player 4: discards 13 at random
+Player 4: hand (4)
+DECK: 5 9 6 12 9 5 5 11 4 8 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 
+Player 5: hand (10)
+Player 5: draws 5
+Player 5: discards 10 at random
+Player 5: hand (5)
+DECK: 9 6 12 9 5 5 11 4 8 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 
+Player 0: hand (1)
+Player 0: draws 9
+Player 0: discards 9 at random
+Player 0: hand (1)
+DECK: 6 12 9 5 5 11 4 8 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 
+Player 1: hand (2)
+Player 1: draws 6
+Player 1: discards 2 at random
+Player 1: hand (6)
+DECK: 12 9 5 5 11 4 8 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 
+Player 2: hand (1)
+Player 2: draws 12
+Player 2: discards 1 at random
+Player 2: hand (12)
+DECK: 9 5 5 11 4 8 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 
+Player 4: hand (4)
+Player 4: draws 9
+Player 4: discards 4 at random
+Player 4: hand (9)
+DECK: 5 5 11 4 8 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 
+Player 5: hand (5)
+Player 5: draws 5
+Player 5: discards 5 at random
+Player 5: hand (5)
+DECK: 5 11 4 8 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 
+Player 0: hand (1)
+Player 0: draws 5
+Player 0: discards 5 at random
+Player 0: hand (1)
+DECK: 11 4 8 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 
+Player 1: hand (6)
+Player 1: draws 11
+Player 1: discards 6 at random
+Player 1: hand (11)
+DECK: 4 8 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 
+Player 2: hand (12)
+Player 2: draws 4
+Player 2: discards 12 at random
+Player 2: hand (4)
+DECK: 8 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 
+Player 4: hand (9)
+Player 4: draws 8
+Player 4: discards 8 at random
+Player 4: hand (9)
+DECK: 4 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 
+Player 5: hand (5)
+Player 5: draws 4
+Player 5: discards 4 at random
+Player 5: hand (5)
+DECK: 2 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 
+Player 0: hand (1)
+Player 0: draws 2
+Player 0: discards 2 at random
+Player 0: hand (1)
+DECK: 3 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 2 
+Player 1: hand (11)
+Player 1: draws 3
+Player 1: discards 11 at random
+Player 1: hand (3)
+DECK: 5 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 2 11 
+Player 2: hand (4)
+Player 2: draws 5
+Player 2: discards 4 at random
+Player 2: hand (5)
+DECK: 1 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 2 11 4 
+Player 4: hand (9)
+Player 4: draws 1
+Player 4: discards 9 at random
+Player 4: hand (1)
+DECK: 12 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 2 11 4 9 
+Player 5: hand (5)
+Player 5: draws 12
+Player 5: discards 12 at random
+Player 5: hand (5)
+DECK: 11 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 2 11 4 9 12 
+Player 0: hand (1)
+Player 0: draws 11
+Player 0: discards 1 at random
+Player 0: hand (11)
+DECK: 10 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 2 11 4 9 12 1 
+Player 1: hand (3)
+Player 1: draws 10
+Player 1: discards 3 at random
+Player 1: hand (10)
+DECK: 6 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 2 11 4 9 12 1 3 
+Player 2: hand (5)
+Player 2: draws 6
+Player 2: discards 5 at random
+Player 2: hand (6)
+DECK: 3 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 2 11 4 9 12 1 3 5 
+Player 4: hand (1)
+Player 4: draws 3
+Player 4: discards 1 at random
+Player 4: hand (3)
+DECK: 7 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 2 11 4 9 12 1 3 5 1 
+Player 5: hand (5)
+Player 5: draws 7
+Player 5: hand (5,7) <> Target Card is 7
+Player 5: wins round 3
+DECK: 12 9 8 8 11 6 8 3 3 13 13 9 2 7 10 7 2 1 13 12 11 4 6 10 13 10 9 2 1 4 5 5 6 12 8 4 2 11 4 9 12 1 3 5 1 
+Player 0: lost round 3
+Player 1: lost round 3
+Player 2: lost round 3
+Player 4: lost round 3
+Player 3: Round ends
+Player 4: Target Card 4
+Player 5: hand (11)
+Player 5: draws 7
+Player 5: discards 11 at random
+Player 5: hand (7)
+DECK: 8 8 3 9 13 13 3 11 1 2 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 
+Player 0: hand (8)
+Player 0: draws 8
+Player 0: discards 8 at random
+Player 0: hand (8)
+DECK: 8 3 9 13 13 3 11 1 2 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 
+Player 1: hand (5)
+Player 1: draws 8
+Player 1: discards 8 at random
+Player 1: hand (5)
+DECK: 3 9 13 13 3 11 1 2 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 
+Player 2: hand (8)
+Player 2: draws 3
+Player 2: discards 3 at random
+Player 2: hand (8)
+DECK: 9 13 13 3 11 1 2 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 
+Player 3: hand (5)
+Player 3: draws 9
+Player 3: discards 5 at random
+Player 3: hand (9)
+DECK: 13 13 3 11 1 2 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 
+Player 5: hand (7)
+Player 5: draws 13
+Player 5: discards 13 at random
+Player 5: hand (7)
+DECK: 13 3 11 1 2 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 
+Player 0: hand (8)
+Player 0: draws 13
+Player 0: discards 8 at random
+Player 0: hand (13)
+DECK: 3 11 1 2 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 
+Player 1: hand (5)
+Player 1: draws 3
+Player 1: discards 3 at random
+Player 1: hand (5)
+DECK: 11 1 2 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 3 
+Player 2: hand (8)
+Player 2: draws 11
+Player 2: discards 11 at random
+Player 2: hand (8)
+DECK: 1 2 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 3 11 
+Player 3: hand (9)
+Player 3: draws 1
+Player 3: discards 1 at random
+Player 3: hand (9)
+DECK: 2 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 3 11 1 
+Player 5: hand (7)
+Player 5: draws 2
+Player 5: discards 7 at random
+Player 5: hand (2)
+DECK: 12 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 3 11 1 7 
+Player 0: hand (13)
+Player 0: draws 12
+Player 0: discards 13 at random
+Player 0: hand (12)
+DECK: 13 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 3 11 1 7 13 
+Player 1: hand (5)
+Player 1: draws 13
+Player 1: discards 5 at random
+Player 1: hand (13)
+DECK: 7 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 3 11 1 7 13 5 
+Player 2: hand (8)
+Player 2: draws 7
+Player 2: discards 7 at random
+Player 2: hand (8)
+DECK: 10 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 3 11 1 7 13 5 7 
+Player 3: hand (9)
+Player 3: draws 10
+Player 3: discards 10 at random
+Player 3: hand (9)
+DECK: 10 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 3 11 1 7 13 5 7 10 
+Player 5: hand (2)
+Player 5: draws 10
+Player 5: discards 2 at random
+Player 5: hand (10)
+DECK: 4 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 3 11 1 7 13 5 7 10 2 
+Player 0: hand (12)
+Player 0: draws 4
+Player 0: hand (12,4) <> Target Card is 4
+Player 0: wins round 4
+DECK: 7 4 1 6 11 3 9 13 1 2 3 12 6 5 9 5 9 12 4 11 10 10 2 7 1 12 6 2 6 11 8 8 3 5 13 8 3 11 1 7 13 5 7 10 2 
+Player 1: lost round 4
+Player 2: lost round 4
+Player 3: lost round 4
+Player 5: lost round 4
+Player 4: Round ends
+Player 5: Target Card 13
+Player 0: hand (9)
+Player 0: draws 7
+Player 0: discards 9 at random
+Player 0: hand (7)
+DECK: 6 12 13 6 12 11 10 1 5 5 8 13 2 2 8 4 9 7 9 2 5 11 1 11 10 13 4 3 11 5 8 12 7 6 4 3 6 12 10 3 3 9 10 4 1 9 
+Player 1: hand (8)
+Player 1: draws 6
+Player 1: discards 8 at random
+Player 1: hand (6)
+DECK: 12 13 6 12 11 10 1 5 5 8 13 2 2 8 4 9 7 9 2 5 11 1 11 10 13 4 3 11 5 8 12 7 6 4 3 6 12 10 3 3 9 10 4 1 9 8 
+Player 2: hand (7)
+Player 2: draws 12
+Player 2: discards 7 at random
+Player 2: hand (12)
+DECK: 13 6 12 11 10 1 5 5 8 13 2 2 8 4 9 7 9 2 5 11 1 11 10 13 4 3 11 5 8 12 7 6 4 3 6 12 10 3 3 9 10 4 1 9 8 7 
+Player 3: hand (1)
+Player 3: draws 13
+Player 3: hand (1,13) <> Target Card is 13
+Player 3: wins round 5
+DECK: 6 12 11 10 1 5 5 8 13 2 2 8 4 9 7 9 2 5 11 1 11 10 13 4 3 11 5 8 12 7 6 4 3 6 12 10 3 3 9 10 4 1 9 8 7 
+Player 4: lost round 5
+Player 0: lost round 5
+Player 1: lost round 5
+Player 2: lost round 5
+Player 5: Round ends

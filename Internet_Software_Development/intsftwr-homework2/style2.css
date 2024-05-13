@@ -1,0 +1,90 @@
+:root {
+    --main-color-1: #02343F;
+    --main-color-2: #F0EDCC;
+}
+
+* {
+    border-radius: 6px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+body {
+    background-color: var(--main-color-1);
+    margin: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.header {
+    background-color: var(--main-color-2);
+    padding: 10px;
+}
+
+.main-content-container {
+    height: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content-container > div {
+    margin-top: 20px;
+}
+
+.navbar {
+    background-color: var(--main-color-2);
+    display: flex;
+    padding: 10px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    width: 100%;
+}
+
+.navbar ul li {
+    margin-left: 12px;
+}
+
+.main-content-and-sidebar {
+    display: flex;
+    height: 100%;
+}
+
+.main-content {
+    width: 100%;
+    margin-right: 10px;
+    background-color: var(--main-color-2);
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-content p {
+    height: 150px;
+    width: 150px;
+    min-height: 150px;
+    min-width: 150px;
+    border: 3px solid black;
+    margin-left: 30px;
+}
+
+.sidebar {
+    width: 25%;
+    background-color: var(--main-color-2);
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.footer {
+    background-color: var(--main-color-2);
+    height: 20%;
+    font-size: 10px;
+    padding: 10px;
+    margin-bottom: 40px;
+}

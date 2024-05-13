@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: project3.RatingSummaryTest
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 4, Time elapsed: 0.054 s - in project3.RatingSummaryTest

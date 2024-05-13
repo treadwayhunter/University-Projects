@@ -1,0 +1,36 @@
+.RegisterPage {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+.Register {
+    height: auto;
+    width: 300px;
+    background-color: green;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+}
+
+.RegisterInput {
+    display: flex;
+    flex-direction: column;
+    margin-top: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.RegisterInput > Input {
+    height: 24px;
+    border-radius: 6px;
+    border: none;
+}
+
+.Register > button {
+    margin-top: 16px;
+    height: 32px;
+}

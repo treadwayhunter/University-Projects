@@ -1,0 +1,37 @@
+--------------------------------------------------
+Highest 3 number of reviews per reviewer
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+A1EE2E3N7PW666,2,4.0,1.2247449,5.0,0.0
+AQNPK1Q7HIAP3,2,3.3333333,1.2472191,2.5,0.5
+AGZ8SM1BGK3CK,1,4.5,0.5,4.0,0.0
+--------------------------------------------------
+Highest 3 rating discrepancies per reviewer (wrt other reviewers)
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+
+A1EE2E3N7PW666,2,4.0,1.2247449,5.0,0.0
+AQNPK1Q7HIAP3,2,3.3333333,1.2472191,2.5,0.5
+AGZ8SM1BGK3CK,1,4.5,0.5,4.0,0.0
+--------------------------------------------------
+Highest 3 rating variation per reviewer (wrt other reviewers)
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+A1EE2E3N7PW666,2,4.0,1.2247449,5.0,0.0
+AQNPK1Q7HIAP3,2,3.3333333,1.2472191,2.5,0.5
+AGZ8SM1BGK3CK,1,4.5,0.5,4.0,0.0
+--------------------------------------------------
+Highest 3 number of reviews per product
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+B000GFDAUG,2,4.5,0.5,4.6666665,0.47140452
+B007427XS4,2,3.5,1.5,3.75,1.299038
+B000GOYLNC,1,3.0,0.0,2.5,0.5
+--------------------------------------------------
+Highest 3 rating discrepancies per product (wrt other products)
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+B000GOYLNC,1,3.0,0.0,2.5,0.5
+B007427XS4,2,3.5,1.5,3.75,1.299038
+B000GFDAUG,2,4.5,0.5,4.6666665,0.47140452
+--------------------------------------------------
+Highest 3 rating variation per reviewer (wrt other reviewers)
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+B000GOYLNC,1,3.0,0.0,2.5,0.5
+B007427XS4,2,3.5,1.5,3.75,1.299038
+B000GFDAUG,2,4.5,0.5,4.6666665,0.47140452

@@ -1,0 +1,1673 @@
+Problem 4 Part A--------------------------
+{S1, 319.539, Fails}
+{S1, 329.539, Recovers}
+{S1, 485.114, Fails}
+{S1, 495.114, Recovers}
+{S1, 1944.79, Fails}
+{S1, 1954.79, Recovers}
+{S1, 2496.81, Fails}
+{S1, 2506.81, Recovers}
+{S1, 2524.77, Fails}
+{S1, 2534.77, Recovers}
+{S1, 3131.34, Fails}
+{S1, 3141.34, Recovers}
+{S1, 4003.74, Fails}
+{S1, 4013.74, Recovers}
+{S1, 4148.69, Fails}
+{S1, 4158.69, Recovers}
+{S1, 5665.23, Fails}
+{S1, 5675.23, Recovers}
+{S1, 5722.34, Fails}
+{S1, 5732.34, Recovers}
+{S1, 6260.86, Fails}
+{S1, 6270.86, Recovers}
+{S1, 6892.12, Fails}
+{S1, 6902.12, Recovers}
+{S1, 7302.82, Fails}
+{S1, 7312.82, Recovers}
+{S1, 8085.37, Fails}
+{S1, 8095.37, Recovers}
+{S1, 8472.33, Fails}
+{S1, 8482.33, Recovers}
+{S1, 8635.84, Fails}
+{S1, 8645.84, Recovers}
+{S1, 8826.73, Fails}
+{S1, 8836.73, Recovers}
+{S1, 9013.33, Fails}
+{S1, 9023.33, Recovers}
+{S1, 9924.2, Fails}
+{S1, 9934.2, Recovers}
+{S1, 10059.1, Fails}
+{S1, 10069.1, Recovers}
+{S1, 10562.6, Fails}
+{S1, 10572.6, Recovers}
+{S1, 11379.1, Fails}
+{S1, 11389.1, Recovers}
+{S1, 11436.2, Fails}
+{S1, 11446.2, Recovers}
+{S1, 11589, Fails}
+{S1, 11599, Recovers}
+{S1, 11701.2, Fails}
+{S1, 11711.2, Recovers}
+{S1, 11799.7, Fails}
+{S1, 11809.7, Recovers}
+{S1, 12129.9, Fails}
+{S1, 12139.9, Recovers}
+{S1, 12482.7, Fails}
+{S1, 12492.7, Recovers}
+{S1, 13781.4, Fails}
+{S1, 13791.4, Recovers}
+{S1, 14001.3, Fails}
+{S1, 14011.3, Recovers}
+{S1, 14327.2, Fails}
+{S1, 14337.2, Recovers}
+{S1, 14589.4, Fails}
+{S1, 14599.4, Recovers}
+{S1, 15070.5, Fails}
+{S1, 15080.5, Recovers}
+{S1, 15347.1, Fails}
+{S1, 15357.1, Recovers}
+{S1, 15387, Fails}
+{S1, 15397, Recovers}
+{S1, 15915.5, Fails}
+{S1, 15925.5, Recovers}
+{S1, 15983.8, Fails}
+{S1, 15993.8, Recovers}
+{S1, 17053.2, Fails}
+{S1, 17063.2, Recovers}
+{S1, 18131.8, Fails}
+{S1, 18141.8, Recovers}
+{S1, 18173.2, Fails}
+{S1, 18183.2, Recovers}
+{S1, 19932.2, Fails}
+{S1, 19942.2, Recovers}
+{S1, 20324.6, Fails}
+{S1, 20334.6, Recovers}
+{S1, 21074.3, Fails}
+{S1, 21084.3, Recovers}
+{S1, 21452.4, Fails}
+{S1, 21462.4, Recovers}
+{S1, 21656.1, Fails}
+{S1, 21666.1, Recovers}
+{S1, 21845.7, Fails}
+{S1, 21855.7, Recovers}
+{S1, 22625.2, Fails}
+{S1, 22635.2, Recovers}
+{S1, 23125.3, Fails}
+{S1, 23135.3, Recovers}
+{S1, 23592.6, Fails}
+{S1, 23602.6, Recovers}
+{S1, 24086.9, Fails}
+{S1, 24096.9, Recovers}
+{S1, 25032, Fails}
+{S1, 25042, Recovers}
+{S1, 25170.5, Fails}
+{S1, 25180.5, Recovers}
+{S1, 25453.8, Fails}
+{S1, 25463.8, Recovers}
+{S1, 26836.6, Fails}
+{S1, 26846.6, Recovers}
+{S1, 27168.8, Fails}
+{S1, 27178.8, Recovers}
+{S1, 27644.5, Fails}
+{S1, 27654.5, Recovers}
+{S1, 27706, Fails}
+{S1, 27716, Recovers}
+{S1, 29194.1, Fails}
+{S1, 29204.1, Recovers}
+{S1, 29258, Fails}
+{S1, 29268, Recovers}
+{S1, 29279.1, Fails}
+{S1, 29289.1, Recovers}
+{S1, 29460.9, Fails}
+{S1, 29470.9, Recovers}
+{S1, 29893.5, Fails}
+{S1, 29903.5, Recovers}
+{S1, 30174.3, Fails}
+{S1, 30184.3, Recovers}
+{S1, 31340.7, Fails}
+{S1, 31350.7, Recovers}
+{S1, 33412.6, Fails}
+{S1, 33422.6, Recovers}
+{S1, 33745.9, Fails}
+{S1, 33755.9, Recovers}
+{S1, 34151.3, Fails}
+{S1, 34161.3, Recovers}
+{S1, 34210.5, Fails}
+{S1, 34220.5, Recovers}
+{S1, 34440.6, Fails}
+{S1, 34450.6, Recovers}
+{S1, 34730.3, Fails}
+{S1, 34740.3, Recovers}
+{S1, 34824.4, Fails}
+{S1, 34834.4, Recovers}
+{S1, 35031.5, Fails}
+{S1, 35041.5, Recovers}
+{S1, 36690.5, Fails}
+{S1, 36700.5, Recovers}
+{S1, 38008.8, Fails}
+{S1, 38018.8, Recovers}
+{S1, 38956.9, Fails}
+{S1, 38966.9, Recovers}
+{S1, 39134.1, Fails}
+{S1, 39144.1, Recovers}
+{S1, 39273.9, Fails}
+{S1, 39283.9, Recovers}
+{S1, 39784.1, Fails}
+{S1, 39794.1, Recovers}
+{S1, 40993.1, Fails}
+{S1, 41003.1, Recovers}
+{S1, 41883, Fails}
+{S1, 41893, Recovers}
+{S1, 42038.6, Fails}
+{S1, 42048.6, Recovers}
+{S1, 42751.9, Fails}
+{S1, 42761.9, Recovers}
+{S1, 42790, Fails}
+{S1, 42800, Recovers}
+{S1, 43360, Fails}
+{S1, 43370, Recovers}
+{S1, 43956.9, Fails}
+{S1, 43966.9, Recovers}
+{S1, 44343.9, Fails}
+{S1, 44353.9, Recovers}
+{S1, 44517.9, Fails}
+{S1, 44527.9, Recovers}
+{S1, 45305.2, Fails}
+{S1, 45315.2, Recovers}
+{S1, 45639.8, Fails}
+{S1, 45649.8, Recovers}
+{S1, 45890.4, Fails}
+{S1, 45900.4, Recovers}
+{S1, 46732.5, Fails}
+{S1, 46742.5, Recovers}
+{S1, 47473.7, Fails}
+{S1, 47483.7, Recovers}
+{S1, 49006.2, Fails}
+{S1, 49016.2, Recovers}
+{S1, 49146.2, Fails}
+{S1, 49156.2, Recovers}
+{S1, 49709.5, Fails}
+{S1, 49719.5, Recovers}
+{S1, 51095.7, Fails}
+{S1, 51105.7, Recovers}
+{S1, 51716.2, Fails}
+{S1, 51726.2, Recovers}
+{S1, 51847.8, Fails}
+{S1, 51857.8, Recovers}
+{S1, 51873, Fails}
+{S1, 51883, Recovers}
+{S1, 51914.6, Fails}
+{S1, 51924.6, Recovers}
+{S1, 52441.4, Fails}
+{S1, 52451.4, Recovers}
+{S1, 52553.5, Fails}
+{S1, 52563.5, Recovers}
+{S1, 52808.1, Fails}
+{S1, 52818.1, Recovers}
+{S1, 53285.6, Fails}
+{S1, 53295.6, Recovers}
+{S1, 53354.8, Fails}
+{S1, 53364.8, Recovers}
+{S1, 53497.9, Fails}
+{S1, 53507.9, Recovers}
+{S1, 54619, Fails}
+{S1, 54629, Recovers}
+{S1, 54837.1, Fails}
+{S1, 54847.1, Recovers}
+{S1, 55851.8, Fails}
+{S1, 55861.8, Recovers}
+{S1, 56668.4, Fails}
+{S1, 56678.4, Recovers}
+{S1, 56770.6, Fails}
+{S1, 56780.6, Recovers}
+{S1, 56843.7, Fails}
+{S1, 56853.7, Recovers}
+{S1, 57259.4, Fails}
+{S1, 57269.4, Recovers}
+{S1, 57395.4, Fails}
+{S1, 57405.4, Recovers}
+{S1, 58191.2, Fails}
+{S1, 58201.2, Recovers}
+{S1, 58342.8, Fails}
+{S1, 58352.8, Recovers}
+{S1, 59050.6, Fails}
+{S1, 59060.6, Recovers}
+{S1, 59098, Fails}
+{S1, 59108, Recovers}
+{S1, 59126, Fails}
+{S1, 59136, Recovers}
+{S1, 59266.6, Fails}
+{S1, 59276.6, Recovers}
+{S1, 59579, Fails}
+{S1, 59589, Recovers}
+{S1, 60524.4, Fails}
+{S1, 60534.4, Recovers}
+{S1, 63681.2, Fails}
+{S1, 63691.2, Recovers}
+{S1, 63951.9, Fails}
+{S1, 63961.9, Recovers}
+{S1, 64000.8, Fails}
+{S1, 64010.8, Recovers}
+{S1, 64561.3, Fails}
+{S1, 64571.3, Recovers}
+{S1, 64781, Fails}
+{S1, 64791, Recovers}
+{S1, 65548, Fails}
+{S1, 65558, Recovers}
+{S1, 66631.8, Fails}
+{S1, 66641.8, Recovers}
+{S1, 66874.9, Fails}
+{S1, 66884.9, Recovers}
+{S1, 67804.6, Fails}
+{S1, 67814.6, Recovers}
+{S1, 68189.5, Fails}
+{S1, 68199.5, Recovers}
+{S1, 68607, Fails}
+{S1, 68617, Recovers}
+{S1, 68746.4, Fails}
+{S1, 68756.4, Recovers}
+{S1, 68828.8, Fails}
+{S1, 68838.8, Recovers}
+{S1, 69391.8, Fails}
+{S1, 69401.8, Recovers}
+{S1, 69711.5, Fails}
+{S1, 69721.5, Recovers}
+{S1, 69734.9, Fails}
+{S1, 69744.9, Recovers}
+{S1, 69749.7, Fails}
+{S1, 69759.7, Recovers}
+{S1, 69958.2, Fails}
+{S1, 69968.2, Recovers}
+{S1, 70846.2, Fails}
+{S1, 70856.2, Recovers}
+{S1, 70954.1, Fails}
+{S1, 70964.1, Recovers}
+{S1, 71259.6, Fails}
+{S1, 71269.6, Recovers}
+{S1, 71511.1, Fails}
+{S1, 71521.1, Recovers}
+{S1, 71777, Fails}
+{S1, 71787, Recovers}
+{S1, 71923.2, Fails}
+{S1, 71933.2, Recovers}
+{S1, 72429.9, Fails}
+{S1, 72439.9, Recovers}
+{S1, 72522.9, Fails}
+{S1, 72532.9, Recovers}
+{S1, 72718.8, Fails}
+{S1, 72728.8, Recovers}
+{S1, 73275.5, Fails}
+{S1, 73285.5, Recovers}
+{S1, 73526.8, Fails}
+{S1, 73536.8, Recovers}
+{S1, 74259.6, Fails}
+{S1, 74269.6, Recovers}
+{S1, 74627.2, Fails}
+{S1, 74637.2, Recovers}
+{S1, 74877, Fails}
+{S1, 74887, Recovers}
+{S1, 74980.6, Fails}
+{S1, 74990.6, Recovers}
+{S1, 75431.3, Fails}
+{S1, 75441.3, Recovers}
+{S1, 75466.1, Fails}
+{S1, 75476.1, Recovers}
+{S1, 75836, Fails}
+{S1, 75846, Recovers}
+{S1, 76073.7, Fails}
+{S1, 76083.7, Recovers}
+{S1, 77425.5, Fails}
+{S1, 77435.5, Recovers}
+{S1, 78520.1, Fails}
+{S1, 78530.1, Recovers}
+{S1, 78646, Fails}
+{S1, 78656, Recovers}
+{S1, 78963.4, Fails}
+{S1, 78973.4, Recovers}
+{S1, 79266.1, Fails}
+{S1, 79276.1, Recovers}
+{S1, 79561.5, Fails}
+{S1, 79571.5, Recovers}
+{S1, 80022.3, Fails}
+{S1, 80032.3, Recovers}
+{S1, 80091.8, Fails}
+{S1, 80101.8, Recovers}
+{S1, 81236.4, Fails}
+{S1, 81246.4, Recovers}
+{S1, 81731, Fails}
+{S1, 81741, Recovers}
+{S1, 81805.9, Fails}
+{S1, 81815.9, Recovers}
+{S1, 81942.9, Fails}
+{S1, 81952.9, Recovers}
+{S1, 82249.9, Fails}
+{S1, 82259.9, Recovers}
+{S1, 82437.9, Fails}
+{S1, 82447.9, Recovers}
+{S1, 83003, Fails}
+{S1, 83013, Recovers}
+{S1, 83901.7, Fails}
+{S1, 83911.7, Recovers}
+{S1, 84513.9, Fails}
+{S1, 84523.9, Recovers}
+{S1, 85722.4, Fails}
+{S1, 85732.4, Recovers}
+{S1, 86041, Fails}
+{S1, 86051, Recovers}
+{S1, 87010, Fails}
+{S1, 87020, Recovers}
+{S1, 87144, Fails}
+{S1, 87154, Recovers}
+{S1, 87221, Fails}
+{S1, 87231, Recovers}
+{S1, 87365.6, Fails}
+{S1, 87375.6, Recovers}
+{S1, 89439.7, Fails}
+{S1, 89449.7, Recovers}
+{S1, 89955.6, Fails}
+{S1, 89965.6, Recovers}
+{S1, 90445.3, Fails}
+{S1, 90455.3, Recovers}
+{S1, 90539.3, Fails}
+{S1, 90549.3, Recovers}
+{S1, 90675, Fails}
+{S1, 90685, Recovers}
+{S1, 91232.3, Fails}
+{S1, 91242.3, Recovers}
+{S1, 91793.2, Fails}
+{S1, 91803.2, Recovers}
+{S1, 92246.6, Fails}
+{S1, 92256.6, Recovers}
+{S1, 92711, Fails}
+{S1, 92721, Recovers}
+{S1, 93124.1, Fails}
+{S1, 93134.1, Recovers}
+{S1, 93926.4, Fails}
+{S1, 93936.4, Recovers}
+{S1, 93965.3, Fails}
+{S1, 93975.3, Recovers}
+{S1, 96806.7, Fails}
+{S1, 96816.7, Recovers}
+{S1, 96947.3, Fails}
+{S1, 96957.3, Recovers}
+{S1, 97482.7, Fails}
+{S1, 97492.7, Recovers}
+{S1, 97550.3, Fails}
+{S1, 97560.3, Recovers}
+{S1, 97627.9, Fails}
+{S1, 97637.9, Recovers}
+{S1, 97795.9, Fails}
+{S1, 97805.9, Recovers}
+{S1, 97936.8, Fails}
+{S1, 97946.8, Recovers}
+{S1, 98162.8, Fails}
+{S1, 98172.8, Recovers}
+{S1, 98807.3, Fails}
+{S1, 98817.3, Recovers}
+{S1, 99194.7, Fails}
+{S1, 99204.7, Recovers}
+{S1, 99215.4, Fails}
+{S1, 99225.4, Recovers}
+{S1, 99624.5, Fails}
+{S1, 99634.5, Recovers}
+{S1, 99765.2, Fails}
+{S1, 99775.2, Recovers}
+{S1, 101106, Fails}
+{S1, 101116, Recovers}
+{S1, 101122, Fails}
+{S1, 101132, Recovers}
+{S1, 101175, Fails}
+{S1, 101185, Recovers}
+{S1, 101266, Fails}
+{S1, 101276, Recovers}
+{S1, 101349, Fails}
+{S1, 101359, Recovers}
+{S1, 101551, Fails}
+{S1, 101561, Recovers}
+{S1, 101633, Fails}
+{S1, 101643, Recovers}
+{S1, 102383, Fails}
+{S1, 102393, Recovers}
+{S1, 103767, Fails}
+{S1, 103777, Recovers}
+{S1, 103947, Fails}
+{S1, 103957, Recovers}
+{S1, 106572, Fails}
+{S1, 106582, Recovers}
+{S1, 107041, Fails}
+{S1, 107051, Recovers}
+{S1, 108612, Fails}
+{S1, 108622, Recovers}
+{S1, 109059, Fails}
+{S1, 109069, Recovers}
+{S1, 109179, Fails}
+{S1, 109189, Recovers}
+{S1, 109545, Fails}
+{S1, 109555, Recovers}
+{S1, 109792, Fails}
+{S1, 109802, Recovers}
+{S1, 109949, Fails}
+{S1, 109959, Recovers}
+{S1, 110312, Fails}
+{S1, 110322, Recovers}
+{S1, 110789, Fails}
+{S1, 110799, Recovers}
+{S1, 111976, Fails}
+{S1, 111986, Recovers}
+{S1, 112462, Fails}
+{S1, 112472, Recovers}
+{S1, 113134, Fails}
+{S1, 113144, Recovers}
+{S1, 113241, Fails}
+{S1, 113251, Recovers}
+{S1, 114183, Fails}
+{S1, 114193, Recovers}
+{S1, 114237, Fails}
+{S1, 114247, Recovers}
+{S1, 115373, Fails}
+{S1, 115383, Recovers}
+{S1, 115618, Fails}
+{S1, 115628, Recovers}
+{S1, 115684, Fails}
+{S1, 115694, Recovers}
+{S1, 115988, Fails}
+{S1, 115998, Recovers}
+{S1, 116463, Fails}
+{S1, 116473, Recovers}
+{S1, 116491, Fails}
+{S1, 116501, Recovers}
+{S1, 116805, Fails}
+{S1, 116815, Recovers}
+{S1, 117397, Fails}
+{S1, 117407, Recovers}
+{S1, 117510, Fails}
+{S1, 117520, Recovers}
+{S1, 117967, Fails}
+{S1, 117977, Recovers}
+{S1, 117980, Fails}
+{S1, 117990, Recovers}
+{S1, 118183, Fails}
+{S1, 118193, Recovers}
+{S1, 118418, Fails}
+{S1, 118428, Recovers}
+{S1, 119860, Fails}
+{S1, 119870, Recovers}
+{S1, 120338, Fails}
+{S1, 120348, Recovers}
+{S1, 120569, Fails}
+{S1, 120579, Recovers}
+{S1, 120972, Fails}
+{S1, 120982, Recovers}
+{S1, 121397, Fails}
+{S1, 121407, Recovers}
+{S1, 122820, Fails}
+{S1, 122830, Recovers}
+{S1, 123508, Fails}
+{S1, 123518, Recovers}
+{S1, 123556, Fails}
+{S1, 123566, Recovers}
+{S1, 123757, Fails}
+{S1, 123767, Recovers}
+{S1, 126679, Fails}
+{S1, 126689, Recovers}
+{S1, 127121, Fails}
+{S1, 127131, Recovers}
+{S1, 128433, Fails}
+{S1, 128443, Recovers}
+{S1, 129604, Fails}
+{S1, 129614, Recovers}
+{S1, 129721, Fails}
+{S1, 129731, Recovers}
+{S1, 130270, Fails}
+{S1, 130280, Recovers}
+{S1, 130321, Fails}
+{S1, 130331, Recovers}
+{S1, 130350, Fails}
+{S1, 130360, Recovers}
+{S1, 131043, Fails}
+{S1, 131053, Recovers}
+{S1, 132853, Fails}
+{S1, 132863, Recovers}
+{S1, 133129, Fails}
+{S1, 133139, Recovers}
+{S1, 134089, Fails}
+{S1, 134099, Recovers}
+{S1, 134369, Fails}
+{S1, 134379, Recovers}
+{S1, 134388, Fails}
+{S1, 134398, Recovers}
+{S1, 135486, Fails}
+{S1, 135496, Recovers}
+{S1, 136526, Fails}
+{S1, 136536, Recovers}
+{S1, 137148, Fails}
+{S1, 137158, Recovers}
+{S1, 137195, Fails}
+{S1, 137205, Recovers}
+{S1, 137516, Fails}
+{S1, 137526, Recovers}
+{S1, 138150, Fails}
+{S1, 138160, Recovers}
+{S1, 138409, Fails}
+{S1, 138419, Recovers}
+{S1, 139295, Fails}
+{S1, 139305, Recovers}
+{S1, 139838, Fails}
+{S1, 139848, Recovers}
+{S1, 143601, Fails}
+{S1, 143611, Recovers}
+{S1, 143713, Fails}
+{S1, 143723, Recovers}
+{S1, 143835, Fails}
+{S1, 143845, Recovers}
+{S1, 144259, Fails}
+{S1, 144269, Recovers}
+{S1, 144336, Fails}
+{S1, 144346, Recovers}
+{S1, 145772, Fails}
+{S1, 145782, Recovers}
+{S1, 146287, Fails}
+{S1, 146297, Recovers}
+{S1, 146591, Fails}
+{S1, 146601, Recovers}
+{S1, 148002, Fails}
+{S1, 148012, Recovers}
+{S1, 148133, Fails}
+{S1, 148143, Recovers}
+{S1, 148374, Fails}
+{S1, 148384, Recovers}
+{S1, 149304, Fails}
+{S1, 149314, Recovers}
+{S1, 149576, Fails}
+{S1, 149586, Recovers}
+{S1, 149601, Fails}
+{S1, 149611, Recovers}
+{S1, 150869, Fails}
+{S1, 150879, Recovers}
+{S1, 151174, Fails}
+{S1, 151184, Recovers}
+{S1, 151928, Fails}
+{S1, 151938, Recovers}
+{S1, 153050, Fails}
+{S1, 153060, Recovers}
+{S1, 154039, Fails}
+{S1, 154049, Recovers}
+{S1, 154538, Fails}
+{S1, 154548, Recovers}
+{S1, 154733, Fails}
+{S1, 154743, Recovers}
+{S1, 155789, Fails}
+{S1, 155799, Recovers}
+{S1, 156156, Fails}
+{S1, 156166, Recovers}
+{S1, 156267, Fails}
+{S1, 156277, Recovers}
+{S1, 156713, Fails}
+{S1, 156723, Recovers}
+{S1, 157161, Fails}
+{S1, 157171, Recovers}
+{S1, 157689, Fails}
+{S1, 157699, Recovers}
+{S1, 157874, Fails}
+{S1, 157884, Recovers}
+{S1, 159735, Fails}
+{S1, 159745, Recovers}
+{S1, 160064, Fails}
+{S1, 160074, Recovers}
+{S1, 161576, Fails}
+{S1, 161586, Recovers}
+{S1, 163426, Fails}
+{S1, 163436, Recovers}
+{S1, 163971, Fails}
+{S1, 163981, Recovers}
+{S1, 164062, Fails}
+{S1, 164072, Recovers}
+{S1, 164458, Fails}
+{S1, 164468, Recovers}
+{S1, 165230, Fails}
+{S1, 165240, Recovers}
+{S1, 165289, Fails}
+{S1, 165299, Recovers}
+{S1, 165394, Fails}
+{S1, 165404, Recovers}
+{S1, 165532, Fails}
+{S1, 165542, Recovers}
+{S1, 165558, Fails}
+{S1, 165568, Recovers}
+{S1, 165814, Fails}
+{S1, 165824, Recovers}
+{S1, 166277, Fails}
+{S1, 166287, Recovers}
+{S1, 167320, Fails}
+{S1, 167330, Recovers}
+{S1, 168123, Fails}
+{S1, 168133, Recovers}
+{S1, 168624, Fails}
+{S1, 168634, Recovers}
+{S1, 169421, Fails}
+{S1, 169431, Recovers}
+{S1, 169569, Fails}
+{S1, 169579, Recovers}
+{S1, 169834, Fails}
+{S1, 169844, Recovers}
+{S1, 170421, Fails}
+{S1, 170431, Recovers}
+{S1, 170483, Fails}
+{S1, 170493, Recovers}
+{S1, 170505, Fails}
+{S1, 170515, Recovers}
+{S1, 173053, Fails}
+{S1, 173063, Recovers}
+{S1, 174928, Fails}
+{S1, 174938, Recovers}
+{S1, 175322, Fails}
+{S1, 175332, Recovers}
+End Problem 4 Part A--------------------------
+
+Problem 4 Part B--------------------------
+Calculating average time until whole computing system fails with 1000 Iterations.
+Scroll to bottom of file to see average failure time!
+
+[Iteration 1] Critical Failure at [S1, 23599.4] && [S2, 23606.4]
+[Iteration 2] Critical Failure at [S2, 21170.4] && [S1, 21178.4]
+[Iteration 3] Critical Failure at [S1, 1912.66] && [S2, 1919.61]
+[Iteration 4] Critical Failure at [S1, 12474.7] && [S2, 12482.1]
+[Iteration 5] Critical Failure at [S1, 10245.7] && [S2, 10252.6]
+[Iteration 6] Critical Failure at [S2, 34052.3] && [S1, 34059.4]
+[Iteration 7] Critical Failure at [S2, 4234.78] && [S1, 4235.65]
+[Iteration 8] Critical Failure at [S1, 3455.33] && [S2, 3456.8]
+[Iteration 9] Critical Failure at [S2, 1376.42] && [S1, 1386.38]
+[Iteration 10] Critical Failure at [S1, 1228.97] && [S2, 1237.46]
+[Iteration 11] Critical Failure at [S1, 33539.7] && [S2, 33541.2]
+[Iteration 12] Critical Failure at [S2, 7624.03] && [S1, 7627.81]
+[Iteration 13] Critical Failure at [S1, 3838.66] && [S2, 3843.18]
+[Iteration 14] Critical Failure at [S1, 15752.9] && [S2, 15761.3]
+[Iteration 15] Critical Failure at [S2, 1031.99] && [S1, 1041.09]
+[Iteration 16] Critical Failure at [S2, 3494.18] && [S1, 3498.61]
+[Iteration 17] Critical Failure at [S1, 13100.3] && [S2, 13104.4]
+[Iteration 18] Critical Failure at [S1, 457.375] && [S2, 460.632]
+[Iteration 19] Critical Failure at [S2, 6044.88] && [S1, 6051.41]
+[Iteration 20] Critical Failure at [S1, 10968.8] && [S2, 10971.9]
+[Iteration 21] Critical Failure at [S2, 14383.5] && [S1, 14390.7]
+[Iteration 22] Critical Failure at [S2, 42960.8] && [S1, 42963.2]
+[Iteration 23] Critical Failure at [S1, 30714] && [S2, 30723.6]
+[Iteration 24] Critical Failure at [S2, 11063.6] && [S1, 11069.3]
+[Iteration 25] Critical Failure at [S1, 8126.68] && [S2, 8134.82]
+[Iteration 26] Critical Failure at [S2, 7366.28] && [S1, 7373.64]
+[Iteration 27] Critical Failure at [S1, 373.174] && [S2, 379.341]
+[Iteration 28] Critical Failure at [S2, 9425.45] && [S1, 9427.09]
+[Iteration 29] Critical Failure at [S2, 18230.5] && [S1, 18238]
+[Iteration 30] Critical Failure at [S2, 3057.35] && [S1, 3060.58]
+[Iteration 31] Critical Failure at [S1, 28040.7] && [S2, 28043.9]
+[Iteration 32] Critical Failure at [S2, 17010.8] && [S1, 17019.5]
+[Iteration 33] Critical Failure at [S1, 3474.82] && [S2, 3478.67]
+[Iteration 34] Critical Failure at [S2, 2790.73] && [S1, 2795.67]
+[Iteration 35] Critical Failure at [S2, 11667.3] && [S1, 11669.9]
+[Iteration 36] Critical Failure at [S2, 46028.3] && [S1, 46037.2]
+[Iteration 37] Critical Failure at [S2, 11457.5] && [S1, 11466.6]
+[Iteration 38] Critical Failure at [S2, 3827.88] && [S1, 3830.89]
+[Iteration 39] Critical Failure at [S1, 17678] && [S2, 17688]
+[Iteration 40] Critical Failure at [S2, 13790.8] && [S1, 13797.4]
+[Iteration 41] Critical Failure at [S2, 36996.7] && [S1, 37004]
+[Iteration 42] Critical Failure at [S1, 4202.26] && [S2, 4210.78]
+[Iteration 43] Critical Failure at [S1, 10509.7] && [S2, 10513.6]
+[Iteration 44] Critical Failure at [S1, 7283.02] && [S2, 7285.62]
+[Iteration 45] Critical Failure at [S2, 12104] && [S1, 12109.9]
+[Iteration 46] Critical Failure at [S2, 26041.1] && [S1, 26049.7]
+[Iteration 47] Critical Failure at [S1, 12139.6] && [S2, 12147.6]
+[Iteration 48] Critical Failure at [S2, 19818.9] && [S1, 19827.7]
+[Iteration 49] Critical Failure at [S2, 6222.78] && [S1, 6225.54]
+[Iteration 50] Critical Failure at [S1, 1177.34] && [S2, 1183.93]
+[Iteration 51] Critical Failure at [S1, 8619.69] && [S2, 8622.7]
+[Iteration 52] Critical Failure at [S1, 999.407] && [S2, 1006.7]
+[Iteration 53] Critical Failure at [S2, 9309.98] && [S1, 9314.28]
+[Iteration 54] Critical Failure at [S1, 2918.42] && [S2, 2919.32]
+[Iteration 55] Critical Failure at [S2, 8176.13] && [S1, 8182.56]
+[Iteration 56] Critical Failure at [S2, 1926.2] && [S1, 1927.88]
+[Iteration 57] Critical Failure at [S2, 2405.03] && [S1, 2410.24]
+[Iteration 58] Critical Failure at [S2, 758.613] && [S1, 766.956]
+[Iteration 59] Critical Failure at [S1, 30532.2] && [S2, 30540.6]
+[Iteration 60] Critical Failure at [S2, 7207.26] && [S1, 7215.3]
+[Iteration 61] Critical Failure at [S1, 13712.2] && [S2, 13712.5]
+[Iteration 62] Critical Failure at [S1, 10190.1] && [S2, 10196.7]
+[Iteration 63] Critical Failure at [S2, 2530.53] && [S1, 2538.39]
+[Iteration 64] Critical Failure at [S2, 6966.92] && [S1, 6975.49]
+[Iteration 65] Critical Failure at [S2, 35972.1] && [S1, 35973.6]
+[Iteration 66] Critical Failure at [S2, 7322.19] && [S1, 7327.81]
+[Iteration 67] Critical Failure at [S2, 4886.75] && [S1, 4893.33]
+[Iteration 68] Critical Failure at [S2, 31962.2] && [S1, 31970.7]
+[Iteration 69] Critical Failure at [S1, 14674.3] && [S2, 14678]
+[Iteration 70] Critical Failure at [S1, 3346.5] && [S2, 3346.83]
+[Iteration 71] Critical Failure at [S1, 5096.65] && [S2, 5104.88]
+[Iteration 72] Critical Failure at [S1, 9865.61] && [S2, 9866.85]
+[Iteration 73] Critical Failure at [S1, 384.907] && [S2, 391.69]
+[Iteration 74] Critical Failure at [S2, 438.176] && [S1, 442.982]
+[Iteration 75] Critical Failure at [S1, 7246.76] && [S2, 7255.3]
+[Iteration 76] Critical Failure at [S1, 18630.2] && [S2, 18639.5]
+[Iteration 77] Critical Failure at [S1, 6296.78] && [S2, 6305.56]
+[Iteration 78] Critical Failure at [S1, 6421.57] && [S2, 6429.31]
+[Iteration 79] Critical Failure at [S2, 8861.66] && [S1, 8863.58]
+[Iteration 80] Critical Failure at [S2, 13066.2] && [S1, 13072.6]
+[Iteration 81] Critical Failure at [S1, 18261.8] && [S2, 18266.3]
+[Iteration 82] Critical Failure at [S2, 2524.36] && [S1, 2527.45]
+[Iteration 83] Critical Failure at [S2, 16403.3] && [S1, 16405.8]
+[Iteration 84] Critical Failure at [S1, 3323.43] && [S2, 3328.23]
+[Iteration 85] Critical Failure at [S1, 536.444] && [S2, 541.311]
+[Iteration 86] Critical Failure at [S2, 10332.2] && [S1, 10334.3]
+[Iteration 87] Critical Failure at [S1, 1674.59] && [S2, 1680.96]
+[Iteration 88] Critical Failure at [S1, 10813.3] && [S2, 10817.9]
+[Iteration 89] Critical Failure at [S1, 29033.8] && [S2, 29040]
+[Iteration 90] Critical Failure at [S1, 3628.87] && [S2, 3629.71]
+[Iteration 91] Critical Failure at [S2, 59488.4] && [S1, 59493.6]
+[Iteration 92] Critical Failure at [S1, 8415.95] && [S2, 8417.15]
+[Iteration 93] Critical Failure at [S2, 23157.3] && [S1, 23159.2]
+[Iteration 94] Critical Failure at [S2, 7565.13] && [S1, 7571.48]
+[Iteration 95] Critical Failure at [S1, 929.921] && [S2, 931.772]
+[Iteration 96] Critical Failure at [S1, 5787.66] && [S2, 5789.39]
+[Iteration 97] Critical Failure at [S2, 33322.2] && [S1, 33331.1]
+[Iteration 98] Critical Failure at [S1, 40889.2] && [S2, 40897.1]
+[Iteration 99] Critical Failure at [S2, 9510.1] && [S1, 9514.82]
+[Iteration 100] Critical Failure at [S2, 21189.2] && [S1, 21194]
+[Iteration 101] Critical Failure at [S1, 3274.61] && [S2, 3282.88]
+[Iteration 102] Critical Failure at [S2, 14325.1] && [S1, 14332.6]
+[Iteration 103] Critical Failure at [S1, 28340.1] && [S2, 28348.9]
+[Iteration 104] Critical Failure at [S1, 2687.04] && [S2, 2691.55]
+[Iteration 105] Critical Failure at [S2, 9728.31] && [S1, 9732.25]
+[Iteration 106] Critical Failure at [S1, 67.6897] && [S2, 75.0237]
+[Iteration 107] Critical Failure at [S2, 2869.24] && [S1, 2876.81]
+[Iteration 108] Critical Failure at [S1, 1044.99] && [S2, 1049.37]
+[Iteration 109] Critical Failure at [S1, 39111.3] && [S2, 39115.2]
+[Iteration 110] Critical Failure at [S2, 24921.4] && [S1, 24922.3]
+[Iteration 111] Critical Failure at [S2, 13688.9] && [S1, 13696.6]
+[Iteration 112] Critical Failure at [S2, 28914.2] && [S1, 28919.9]
+[Iteration 113] Critical Failure at [S2, 146.411] && [S1, 151.176]
+[Iteration 114] Critical Failure at [S2, 3349.63] && [S1, 3350.08]
+[Iteration 115] Critical Failure at [S1, 17463.2] && [S2, 17469]
+[Iteration 116] Critical Failure at [S2, 33180] && [S1, 33184.4]
+[Iteration 117] Critical Failure at [S2, 3255.9] && [S1, 3259.65]
+[Iteration 118] Critical Failure at [S2, 24638.5] && [S1, 24641.8]
+[Iteration 119] Critical Failure at [S2, 3470.35] && [S1, 3472.22]
+[Iteration 120] Critical Failure at [S1, 7630.93] && [S2, 7635.17]
+[Iteration 121] Critical Failure at [S2, 42019.2] && [S1, 42024.8]
+[Iteration 122] Critical Failure at [S1, 8107.57] && [S2, 8107.99]
+[Iteration 123] Critical Failure at [S1, 7746.11] && [S2, 7750.53]
+[Iteration 124] Critical Failure at [S2, 2211.23] && [S1, 2221.17]
+[Iteration 125] Critical Failure at [S2, 1350.39] && [S1, 1351.34]
+[Iteration 126] Critical Failure at [S1, 5230.39] && [S2, 5238.79]
+[Iteration 127] Critical Failure at [S1, 21682.7] && [S2, 21690.4]
+[Iteration 128] Critical Failure at [S2, 33182.3] && [S1, 33188.7]
+[Iteration 129] Critical Failure at [S1, 4744.33] && [S2, 4748.63]
+[Iteration 130] Critical Failure at [S2, 4946.6] && [S1, 4953.91]
+[Iteration 131] Critical Failure at [S2, 5314.53] && [S1, 5316.93]
+[Iteration 132] Critical Failure at [S1, 25213] && [S2, 25217.2]
+[Iteration 133] Critical Failure at [S2, 2828.6] && [S1, 2838.06]
+[Iteration 134] Critical Failure at [S1, 20727.7] && [S2, 20729.7]
+[Iteration 135] Critical Failure at [S1, 13853.1] && [S2, 13855.7]
+[Iteration 136] Critical Failure at [S1, 15542.7] && [S2, 15548.1]
+[Iteration 137] Critical Failure at [S1, 5473.42] && [S2, 5479.84]
+[Iteration 138] Critical Failure at [S2, 2280.83] && [S1, 2283.73]
+[Iteration 139] Critical Failure at [S2, 8011.67] && [S1, 8014.24]
+[Iteration 140] Critical Failure at [S1, 20494.1] && [S2, 20504]
+[Iteration 141] Critical Failure at [S2, 3266.72] && [S1, 3267.35]
+[Iteration 142] Critical Failure at [S1, 6864.16] && [S2, 6864.28]
+[Iteration 143] Critical Failure at [S2, 35066.8] && [S1, 35072.1]
+[Iteration 144] Critical Failure at [S2, 22709.3] && [S1, 22709.5]
+[Iteration 145] Critical Failure at [S1, 7939.15] && [S2, 7941.02]
+[Iteration 146] Critical Failure at [S1, 5416.36] && [S2, 5420.93]
+[Iteration 147] Critical Failure at [S1, 2941.67] && [S2, 2946.04]
+[Iteration 148] Critical Failure at [S2, 27770.2] && [S1, 27778.7]
+[Iteration 149] Critical Failure at [S1, 8652.6] && [S2, 8653.4]
+[Iteration 150] Critical Failure at [S1, 15263.1] && [S2, 15264.2]
+[Iteration 151] Critical Failure at [S2, 21638.6] && [S1, 21640.3]
+[Iteration 152] Critical Failure at [S1, 9714.84] && [S2, 9717.97]
+[Iteration 153] Critical Failure at [S2, 13238.3] && [S1, 13238.6]
+[Iteration 154] Critical Failure at [S2, 3123.62] && [S1, 3130.91]
+[Iteration 155] Critical Failure at [S1, 24459.1] && [S2, 24467.7]
+[Iteration 156] Critical Failure at [S2, 4274.6] && [S1, 4283.96]
+[Iteration 157] Critical Failure at [S2, 2547.89] && [S1, 2550.55]
+[Iteration 158] Critical Failure at [S2, 6334.47] && [S1, 6340.13]
+[Iteration 159] Critical Failure at [S1, 13223.7] && [S2, 13227.7]
+[Iteration 160] Critical Failure at [S1, 15291.2] && [S2, 15293.5]
+[Iteration 161] Critical Failure at [S1, 1190.84] && [S2, 1191.45]
+[Iteration 162] Critical Failure at [S1, 13824.3] && [S2, 13825.2]
+[Iteration 163] Critical Failure at [S2, 17806.5] && [S1, 17810]
+[Iteration 164] Critical Failure at [S1, 4314.25] && [S2, 4321.49]
+[Iteration 165] Critical Failure at [S2, 427.147] && [S1, 431.72]
+[Iteration 166] Critical Failure at [S2, 5471.46] && [S1, 5473.9]
+[Iteration 167] Critical Failure at [S1, 4762.2] && [S2, 4769.53]
+[Iteration 168] Critical Failure at [S2, 5322.99] && [S1, 5332.23]
+[Iteration 169] Critical Failure at [S2, 17734.2] && [S1, 17735.2]
+[Iteration 170] Critical Failure at [S1, 1191.69] && [S2, 1196.65]
+[Iteration 171] Critical Failure at [S2, 12128.4] && [S1, 12134.1]
+[Iteration 172] Critical Failure at [S1, 1902.66] && [S2, 1903.23]
+[Iteration 173] Critical Failure at [S2, 1059.13] && [S1, 1063.18]
+[Iteration 174] Critical Failure at [S2, 1122.61] && [S1, 1129.09]
+[Iteration 175] Critical Failure at [S1, 25750] && [S2, 25754.8]
+[Iteration 176] Critical Failure at [S2, 1159.63] && [S1, 1163.69]
+[Iteration 177] Critical Failure at [S2, 13429] && [S1, 13438.5]
+[Iteration 178] Critical Failure at [S1, 14948.8] && [S2, 14952.1]
+[Iteration 179] Critical Failure at [S1, 22867.2] && [S2, 22869.7]
+[Iteration 180] Critical Failure at [S1, 12458.7] && [S2, 12461]
+[Iteration 181] Critical Failure at [S1, 11827.7] && [S2, 11834.8]
+[Iteration 182] Critical Failure at [S2, 30432.2] && [S1, 30441.3]
+[Iteration 183] Critical Failure at [S1, 13662.2] && [S2, 13670.1]
+[Iteration 184] Critical Failure at [S2, 32749.3] && [S1, 32750]
+[Iteration 185] Critical Failure at [S1, 5010.31] && [S2, 5016.28]
+[Iteration 186] Critical Failure at [S2, 470.009] && [S1, 477.072]
+[Iteration 187] Critical Failure at [S1, 31289.2] && [S2, 31298.2]
+[Iteration 188] Critical Failure at [S1, 22309.1] && [S2, 22314]
+[Iteration 189] Critical Failure at [S1, 7615.86] && [S2, 7620.03]
+[Iteration 190] Critical Failure at [S2, 3823.34] && [S1, 3828.98]
+[Iteration 191] Critical Failure at [S1, 1815.3] && [S2, 1823.21]
+[Iteration 192] Critical Failure at [S1, 2774.54] && [S2, 2783.61]
+[Iteration 193] Critical Failure at [S2, 1973.01] && [S1, 1982.7]
+[Iteration 194] Critical Failure at [S1, 3292.46] && [S2, 3293.81]
+[Iteration 195] Critical Failure at [S2, 10500.8] && [S1, 10504]
+[Iteration 196] Critical Failure at [S2, 24820.9] && [S1, 24823.2]
+[Iteration 197] Critical Failure at [S1, 4726.53] && [S2, 4728.11]
+[Iteration 198] Critical Failure at [S1, 11315.7] && [S2, 11319.7]
+[Iteration 199] Critical Failure at [S1, 17067.3] && [S2, 17074]
+[Iteration 200] Critical Failure at [S1, 8017.96] && [S2, 8022.39]
+[Iteration 201] Critical Failure at [S2, 841.369] && [S1, 846.61]
+[Iteration 202] Critical Failure at [S2, 6720.03] && [S1, 6725.53]
+[Iteration 203] Critical Failure at [S1, 3110.13] && [S2, 3117.7]
+[Iteration 204] Critical Failure at [S1, 32341.1] && [S2, 32348.8]
+[Iteration 205] Critical Failure at [S1, 25380.4] && [S2, 25385.6]
+[Iteration 206] Critical Failure at [S1, 3853.46] && [S2, 3861.38]
+[Iteration 207] Critical Failure at [S1, 3727.75] && [S2, 3736.35]
+[Iteration 208] Critical Failure at [S2, 1547.52] && [S1, 1553.05]
+[Iteration 209] Critical Failure at [S2, 24971.1] && [S1, 24971.5]
+[Iteration 210] Critical Failure at [S2, 43462.4] && [S1, 43464.4]
+[Iteration 211] Critical Failure at [S2, 27779.1] && [S1, 27788.7]
+[Iteration 212] Critical Failure at [S1, 23703.9] && [S2, 23711.3]
+[Iteration 213] Critical Failure at [S2, 14403.7] && [S1, 14412.4]
+[Iteration 214] Critical Failure at [S2, 53489.3] && [S1, 53498.5]
+[Iteration 215] Critical Failure at [S1, 5223.34] && [S2, 5230.43]
+[Iteration 216] Critical Failure at [S2, 6574.78] && [S1, 6577.98]
+[Iteration 217] Critical Failure at [S1, 15016.8] && [S2, 15017.6]
+[Iteration 218] Critical Failure at [S1, 19891.8] && [S2, 19893.3]
+[Iteration 219] Critical Failure at [S2, 41774.6] && [S1, 41775.8]
+[Iteration 220] Critical Failure at [S1, 2761.09] && [S2, 2767.32]
+[Iteration 221] Critical Failure at [S2, 8662.89] && [S1, 8668.72]
+[Iteration 222] Critical Failure at [S1, 9432.99] && [S2, 9433.02]
+[Iteration 223] Critical Failure at [S2, 9973.59] && [S1, 9980.17]
+[Iteration 224] Critical Failure at [S2, 9623.05] && [S1, 9626.54]
+[Iteration 225] Critical Failure at [S1, 8738.02] && [S2, 8742.29]
+[Iteration 226] Critical Failure at [S1, 22679.6] && [S2, 22681.2]
+[Iteration 227] Critical Failure at [S2, 6532.09] && [S1, 6533]
+[Iteration 228] Critical Failure at [S1, 42700.4] && [S2, 42704.8]
+[Iteration 229] Critical Failure at [S1, 26122.2] && [S2, 26130.7]
+[Iteration 230] Critical Failure at [S2, 1627.02] && [S1, 1629.58]
+[Iteration 231] Critical Failure at [S1, 18380.9] && [S2, 18385.3]
+[Iteration 232] Critical Failure at [S2, 41252.2] && [S1, 41256]
+[Iteration 233] Critical Failure at [S1, 7327.08] && [S2, 7327.44]
+[Iteration 234] Critical Failure at [S1, 9372.59] && [S2, 9373.52]
+[Iteration 235] Critical Failure at [S2, 4698.01] && [S1, 4703.38]
+[Iteration 236] Critical Failure at [S1, 9029.24] && [S2, 9036.88]
+[Iteration 237] Critical Failure at [S2, 3255.01] && [S1, 3260.76]
+[Iteration 238] Critical Failure at [S2, 4303.16] && [S1, 4308.05]
+[Iteration 239] Critical Failure at [S1, 20165] && [S2, 20168.9]
+[Iteration 240] Critical Failure at [S1, 8477.44] && [S2, 8485.51]
+[Iteration 241] Critical Failure at [S1, 25308.4] && [S2, 25309]
+[Iteration 242] Critical Failure at [S2, 5382.46] && [S1, 5391.22]
+[Iteration 243] Critical Failure at [S1, 53119.9] && [S2, 53119.9]
+[Iteration 244] Critical Failure at [S2, 2265.08] && [S1, 2265.95]
+[Iteration 245] Critical Failure at [S2, 13034.8] && [S1, 13041.4]
+[Iteration 246] Critical Failure at [S1, 14561.2] && [S2, 14566.2]
+[Iteration 247] Critical Failure at [S1, 5764.53] && [S2, 5772.6]
+[Iteration 248] Critical Failure at [S1, 2667.07] && [S2, 2675.02]
+[Iteration 249] Critical Failure at [S1, 10192.2] && [S2, 10200.4]
+[Iteration 250] Critical Failure at [S2, 78085.7] && [S1, 78091.2]
+[Iteration 251] Critical Failure at [S2, 7008.98] && [S1, 7017.7]
+[Iteration 252] Critical Failure at [S2, 20452.6] && [S1, 20454]
+[Iteration 253] Critical Failure at [S1, 185.864] && [S2, 187.011]
+[Iteration 254] Critical Failure at [S2, 433.282] && [S1, 435.077]
+[Iteration 255] Critical Failure at [S2, 33852.9] && [S1, 33862.8]
+[Iteration 256] Critical Failure at [S1, 42566.2] && [S2, 42567.2]
+[Iteration 257] Critical Failure at [S1, 36097.8] && [S2, 36100.2]
+[Iteration 258] Critical Failure at [S1, 409.235] && [S2, 418.445]
+[Iteration 259] Critical Failure at [S2, 18958.7] && [S1, 18960.2]
+[Iteration 260] Critical Failure at [S1, 8729.39] && [S2, 8733.37]
+[Iteration 261] Critical Failure at [S1, 19563.9] && [S2, 19567.3]
+[Iteration 262] Critical Failure at [S1, 7056.93] && [S2, 7057.74]
+[Iteration 263] Critical Failure at [S2, 8121.85] && [S1, 8124.03]
+[Iteration 264] Critical Failure at [S2, 4958.42] && [S1, 4962.47]
+[Iteration 265] Critical Failure at [S1, 26028.6] && [S2, 26030.2]
+[Iteration 266] Critical Failure at [S2, 11296.6] && [S1, 11304.1]
+[Iteration 267] Critical Failure at [S1, 510.707] && [S2, 512.776]
+[Iteration 268] Critical Failure at [S1, 1859.12] && [S2, 1868.65]
+[Iteration 269] Critical Failure at [S1, 8963.63] && [S2, 8967.72]
+[Iteration 270] Critical Failure at [S1, 10021.5] && [S2, 10031.5]
+[Iteration 271] Critical Failure at [S1, 1268.38] && [S2, 1271.63]
+[Iteration 272] Critical Failure at [S2, 4633.46] && [S1, 4635.36]
+[Iteration 273] Critical Failure at [S2, 7081.74] && [S1, 7085.91]
+[Iteration 274] Critical Failure at [S1, 11565.5] && [S2, 11574.7]
+[Iteration 275] Critical Failure at [S2, 37529.5] && [S1, 37537.7]
+[Iteration 276] Critical Failure at [S2, 10311.8] && [S1, 10320.7]
+[Iteration 277] Critical Failure at [S1, 12880.6] && [S2, 12882.3]
+[Iteration 278] Critical Failure at [S2, 22201.2] && [S1, 22204.4]
+[Iteration 279] Critical Failure at [S1, 6781.65] && [S2, 6787.38]
+[Iteration 280] Critical Failure at [S1, 29894] && [S2, 29899.7]
+[Iteration 281] Critical Failure at [S1, 8156.95] && [S2, 8166.63]
+[Iteration 282] Critical Failure at [S2, 14660.6] && [S1, 14665.3]
+[Iteration 283] Critical Failure at [S2, 3299.04] && [S1, 3304.43]
+[Iteration 284] Critical Failure at [S2, 10936.5] && [S1, 10938.9]
+[Iteration 285] Critical Failure at [S2, 8118.71] && [S1, 8126.81]
+[Iteration 286] Critical Failure at [S2, 21095.2] && [S1, 21104.6]
+[Iteration 287] Critical Failure at [S1, 10617.7] && [S2, 10619.4]
+[Iteration 288] Critical Failure at [S2, 7772.82] && [S1, 7775.47]
+[Iteration 289] Critical Failure at [S2, 12582.4] && [S1, 12588]
+[Iteration 290] Critical Failure at [S2, 11640.6] && [S1, 11642.7]
+[Iteration 291] Critical Failure at [S1, 20745.9] && [S2, 20754]
+[Iteration 292] Critical Failure at [S2, 12208.2] && [S1, 12216.5]
+[Iteration 293] Critical Failure at [S2, 9298.02] && [S1, 9298.59]
+[Iteration 294] Critical Failure at [S2, 15073.9] && [S1, 15076.6]
+[Iteration 295] Critical Failure at [S2, 43750.6] && [S1, 43754.4]
+[Iteration 296] Critical Failure at [S1, 13499] && [S2, 13505]
+[Iteration 297] Critical Failure at [S1, 40057.2] && [S2, 40066.6]
+[Iteration 298] Critical Failure at [S1, 4655.09] && [S2, 4658.69]
+[Iteration 299] Critical Failure at [S2, 6768.78] && [S1, 6772.01]
+[Iteration 300] Critical Failure at [S2, 5752.49] && [S1, 5752.96]
+[Iteration 301] Critical Failure at [S2, 120.453] && [S1, 121.474]
+[Iteration 302] Critical Failure at [S2, 352.991] && [S1, 355.506]
+[Iteration 303] Critical Failure at [S1, 10793.5] && [S2, 10795]
+[Iteration 304] Critical Failure at [S1, 5981.7] && [S2, 5986.94]
+[Iteration 305] Critical Failure at [S1, 34583.7] && [S2, 34592.7]
+[Iteration 306] Critical Failure at [S1, 8337.08] && [S2, 8337.5]
+[Iteration 307] Critical Failure at [S2, 6215.29] && [S1, 6224.69]
+[Iteration 308] Critical Failure at [S1, 6233.75] && [S2, 6242.03]
+[Iteration 309] Critical Failure at [S1, 1031.71] && [S2, 1037.48]
+[Iteration 310] Critical Failure at [S2, 17332.5] && [S1, 17336.6]
+[Iteration 311] Critical Failure at [S2, 131.048] && [S1, 131.57]
+[Iteration 312] Critical Failure at [S1, 20237.4] && [S2, 20237.7]
+[Iteration 313] Critical Failure at [S1, 3836.52] && [S2, 3846.26]
+[Iteration 314] Critical Failure at [S1, 14637.8] && [S2, 14638]
+[Iteration 315] Critical Failure at [S2, 23789.3] && [S1, 23796.2]
+[Iteration 316] Critical Failure at [S1, 1801.22] && [S2, 1808.81]
+[Iteration 317] Critical Failure at [S1, 4175.12] && [S2, 4177.23]
+[Iteration 318] Critical Failure at [S1, 14938.7] && [S2, 14943.3]
+[Iteration 319] Critical Failure at [S2, 7936.94] && [S1, 7941.92]
+[Iteration 320] Critical Failure at [S2, 14185.4] && [S1, 14188.2]
+[Iteration 321] Critical Failure at [S2, 20093.4] && [S1, 20097.4]
+[Iteration 322] Critical Failure at [S2, 18762.3] && [S1, 18764.5]
+[Iteration 323] Critical Failure at [S1, 8082.3] && [S2, 8086.14]
+[Iteration 324] Critical Failure at [S2, 5028.2] && [S1, 5033.69]
+[Iteration 325] Critical Failure at [S1, 1030.64] && [S2, 1036.39]
+[Iteration 326] Critical Failure at [S1, 11255.1] && [S2, 11259.9]
+[Iteration 327] Critical Failure at [S1, 1901.76] && [S2, 1910.49]
+[Iteration 328] Critical Failure at [S1, 298.608] && [S2, 307.113]
+[Iteration 329] Critical Failure at [S2, 5181.83] && [S1, 5189.39]
+[Iteration 330] Critical Failure at [S1, 993.31] && [S2, 1001.9]
+[Iteration 331] Critical Failure at [S1, 17589.1] && [S2, 17597.6]
+[Iteration 332] Critical Failure at [S1, 15783.1] && [S2, 15788.6]
+[Iteration 333] Critical Failure at [S1, 13912.4] && [S2, 13915.3]
+[Iteration 334] Critical Failure at [S1, 6764.75] && [S2, 6770.33]
+[Iteration 335] Critical Failure at [S2, 6401.22] && [S1, 6401.92]
+[Iteration 336] Critical Failure at [S2, 14086] && [S1, 14086.4]
+[Iteration 337] Critical Failure at [S2, 2056.34] && [S1, 2056.45]
+[Iteration 338] Critical Failure at [S1, 647.202] && [S2, 654.678]
+[Iteration 339] Critical Failure at [S2, 3809.4] && [S1, 3815.3]
+[Iteration 340] Critical Failure at [S2, 26923.5] && [S1, 26923.8]
+[Iteration 341] Critical Failure at [S2, 11699.1] && [S1, 11701]
+[Iteration 342] Critical Failure at [S2, 2776.45] && [S1, 2780.58]
+[Iteration 343] Critical Failure at [S2, 4136.81] && [S1, 4137.78]
+[Iteration 344] Critical Failure at [S2, 565.278] && [S1, 570.649]
+[Iteration 345] Critical Failure at [S1, 27849] && [S2, 27857.6]
+[Iteration 346] Critical Failure at [S2, 46488.7] && [S1, 46490]
+[Iteration 347] Critical Failure at [S2, 2174.03] && [S1, 2182.24]
+[Iteration 348] Critical Failure at [S1, 24551.2] && [S2, 24551.2]
+[Iteration 349] Critical Failure at [S2, 7126.64] && [S1, 7135.94]
+[Iteration 350] Critical Failure at [S1, 1286.54] && [S2, 1295.1]
+[Iteration 351] Critical Failure at [S2, 17094.6] && [S1, 17103.8]
+[Iteration 352] Critical Failure at [S2, 30704.5] && [S1, 30709.2]
+[Iteration 353] Critical Failure at [S2, 39449.6] && [S1, 39457.6]
+[Iteration 354] Critical Failure at [S1, 1966.49] && [S2, 1969.72]
+[Iteration 355] Critical Failure at [S2, 7273.15] && [S1, 7282.51]
+[Iteration 356] Critical Failure at [S1, 36.0411] && [S2, 36.5369]
+[Iteration 357] Critical Failure at [S1, 52383.5] && [S2, 52385.5]
+[Iteration 358] Critical Failure at [S1, 3285.67] && [S2, 3290.46]
+[Iteration 359] Critical Failure at [S1, 30815.2] && [S2, 30820.9]
+[Iteration 360] Critical Failure at [S1, 5241.32] && [S2, 5243.28]
+[Iteration 361] Critical Failure at [S2, 36397.3] && [S1, 36399]
+[Iteration 362] Critical Failure at [S2, 22050.1] && [S1, 22050.5]
+[Iteration 363] Critical Failure at [S1, 13194.9] && [S2, 13203.5]
+[Iteration 364] Critical Failure at [S1, 7269.85] && [S2, 7276.48]
+[Iteration 365] Critical Failure at [S1, 4974.51] && [S2, 4975.98]
+[Iteration 366] Critical Failure at [S1, 20.5096] && [S2, 21.2301]
+[Iteration 367] Critical Failure at [S1, 5159.72] && [S2, 5160.02]
+[Iteration 368] Critical Failure at [S2, 356.585] && [S1, 357.963]
+[Iteration 369] Critical Failure at [S2, 7427.07] && [S1, 7436.59]
+[Iteration 370] Critical Failure at [S1, 7003.15] && [S2, 7006.76]
+[Iteration 371] Critical Failure at [S2, 44232.6] && [S1, 44238.7]
+[Iteration 372] Critical Failure at [S2, 5763.63] && [S1, 5766.13]
+[Iteration 373] Critical Failure at [S1, 21605.6] && [S2, 21611.8]
+[Iteration 374] Critical Failure at [S1, 40208.5] && [S2, 40210.1]
+[Iteration 375] Critical Failure at [S1, 6418.83] && [S2, 6424.66]
+[Iteration 376] Critical Failure at [S2, 9307.98] && [S1, 9313.92]
+[Iteration 377] Critical Failure at [S1, 22298.1] && [S2, 22306.1]
+[Iteration 378] Critical Failure at [S1, 1408.9] && [S2, 1417.53]
+[Iteration 379] Critical Failure at [S2, 5716.88] && [S1, 5719.18]
+[Iteration 380] Critical Failure at [S1, 3141.78] && [S2, 3146.84]
+[Iteration 381] Critical Failure at [S1, 41426.6] && [S2, 41427.7]
+[Iteration 382] Critical Failure at [S1, 2863.68] && [S2, 2868.48]
+[Iteration 383] Critical Failure at [S1, 23985.5] && [S2, 23991.4]
+[Iteration 384] Critical Failure at [S1, 403.99] && [S2, 410.977]
+[Iteration 385] Critical Failure at [S2, 640.258] && [S1, 650.207]
+[Iteration 386] Critical Failure at [S2, 9222.87] && [S1, 9231.84]
+[Iteration 387] Critical Failure at [S1, 4813.79] && [S2, 4818.54]
+[Iteration 388] Critical Failure at [S2, 714.409] && [S1, 723.861]
+[Iteration 389] Critical Failure at [S1, 3437.65] && [S2, 3440.28]
+[Iteration 390] Critical Failure at [S2, 2245.17] && [S1, 2250.91]
+[Iteration 391] Critical Failure at [S2, 30905.7] && [S1, 30908.7]
+[Iteration 392] Critical Failure at [S2, 1836.28] && [S1, 1844.17]
+[Iteration 393] Critical Failure at [S2, 13599.6] && [S1, 13606.6]
+[Iteration 394] Critical Failure at [S2, 5730.32] && [S1, 5737.21]
+[Iteration 395] Critical Failure at [S1, 29075.7] && [S2, 29080.9]
+[Iteration 396] Critical Failure at [S2, 11702.5] && [S1, 11703.6]
+[Iteration 397] Critical Failure at [S2, 3884.63] && [S1, 3892.36]
+[Iteration 398] Critical Failure at [S1, 10210.9] && [S2, 10212.5]
+[Iteration 399] Critical Failure at [S1, 4166.45] && [S2, 4166.88]
+[Iteration 400] Critical Failure at [S1, 21077.9] && [S2, 21086.5]
+[Iteration 401] Critical Failure at [S2, 1735.94] && [S1, 1740.76]
+[Iteration 402] Critical Failure at [S1, 6284.91] && [S2, 6290.09]
+[Iteration 403] Critical Failure at [S1, 24901.9] && [S2, 24905.6]
+[Iteration 404] Critical Failure at [S2, 2244.5] && [S1, 2249.05]
+[Iteration 405] Critical Failure at [S1, 22061.3] && [S2, 22066.3]
+[Iteration 406] Critical Failure at [S2, 884.456] && [S1, 893.681]
+[Iteration 407] Critical Failure at [S1, 4219.35] && [S2, 4224.32]
+[Iteration 408] Critical Failure at [S2, 12447.4] && [S1, 12452.1]
+[Iteration 409] Critical Failure at [S2, 15471.5] && [S1, 15478.1]
+[Iteration 410] Critical Failure at [S1, 5121.61] && [S2, 5128.98]
+[Iteration 411] Critical Failure at [S2, 6194.31] && [S1, 6200.64]
+[Iteration 412] Critical Failure at [S1, 10964.6] && [S2, 10974]
+[Iteration 413] Critical Failure at [S2, 1627.98] && [S1, 1628.61]
+[Iteration 414] Critical Failure at [S2, 21732.2] && [S1, 21737.3]
+[Iteration 415] Critical Failure at [S1, 23448.3] && [S2, 23453.6]
+[Iteration 416] Critical Failure at [S2, 9309.49] && [S1, 9312.35]
+[Iteration 417] Critical Failure at [S1, 42569.9] && [S2, 42578.2]
+[Iteration 418] Critical Failure at [S1, 6710.66] && [S2, 6716.88]
+[Iteration 419] Critical Failure at [S1, 3481.49] && [S2, 3481.63]
+[Iteration 420] Critical Failure at [S1, 3230.18] && [S2, 3230.35]
+[Iteration 421] Critical Failure at [S2, 16989] && [S1, 16996.3]
+[Iteration 422] Critical Failure at [S1, 1321.09] && [S2, 1329.26]
+[Iteration 423] Critical Failure at [S2, 5404.21] && [S1, 5406.58]
+[Iteration 424] Critical Failure at [S2, 7721.03] && [S1, 7723.45]
+[Iteration 425] Critical Failure at [S1, 1181.21] && [S2, 1187.83]
+[Iteration 426] Critical Failure at [S1, 219.276] && [S2, 222.94]
+[Iteration 427] Critical Failure at [S2, 1795.7] && [S1, 1802.55]
+[Iteration 428] Critical Failure at [S1, 3470.24] && [S2, 3472.76]
+[Iteration 429] Critical Failure at [S1, 5593.65] && [S2, 5603.46]
+[Iteration 430] Critical Failure at [S2, 319.975] && [S1, 320.513]
+[Iteration 431] Critical Failure at [S1, 7726.64] && [S2, 7733.33]
+[Iteration 432] Critical Failure at [S1, 11512.8] && [S2, 11518.9]
+[Iteration 433] Critical Failure at [S1, 2503.15] && [S2, 2504.29]
+[Iteration 434] Critical Failure at [S2, 12105] && [S1, 12112.4]
+[Iteration 435] Critical Failure at [S2, 1372.18] && [S1, 1376.43]
+[Iteration 436] Critical Failure at [S2, 10093.7] && [S1, 10097.6]
+[Iteration 437] Critical Failure at [S2, 32368.1] && [S1, 32369.2]
+[Iteration 438] Critical Failure at [S1, 10031.2] && [S2, 10039.7]
+[Iteration 439] Critical Failure at [S1, 2074.16] && [S2, 2076.29]
+[Iteration 440] Critical Failure at [S1, 22828.6] && [S2, 22835.1]
+[Iteration 441] Critical Failure at [S2, 29104] && [S1, 29104.6]
+[Iteration 442] Critical Failure at [S1, 49152.7] && [S2, 49160.4]
+[Iteration 443] Critical Failure at [S1, 22944.7] && [S2, 22953.5]
+[Iteration 444] Critical Failure at [S2, 12268] && [S1, 12271]
+[Iteration 445] Critical Failure at [S2, 9910.35] && [S1, 9913.21]
+[Iteration 446] Critical Failure at [S1, 4980.28] && [S2, 4983.94]
+[Iteration 447] Critical Failure at [S2, 4701.91] && [S1, 4702.11]
+[Iteration 448] Critical Failure at [S2, 16331] && [S1, 16337.4]
+[Iteration 449] Critical Failure at [S1, 65776.9] && [S2, 65786.3]
+[Iteration 450] Critical Failure at [S1, 769.261] && [S2, 778.333]
+[Iteration 451] Critical Failure at [S2, 5361.21] && [S1, 5367.25]
+[Iteration 452] Critical Failure at [S2, 33241.2] && [S1, 33247.7]
+[Iteration 453] Critical Failure at [S1, 12754.5] && [S2, 12760.3]
+[Iteration 454] Critical Failure at [S1, 2597.51] && [S2, 2605.88]
+[Iteration 455] Critical Failure at [S2, 14379] && [S1, 14383.3]
+[Iteration 456] Critical Failure at [S2, 19869.6] && [S1, 19874.8]
+[Iteration 457] Critical Failure at [S1, 230.487] && [S2, 235.549]
+[Iteration 458] Critical Failure at [S1, 23184.8] && [S2, 23185.3]
+[Iteration 459] Critical Failure at [S2, 15277.6] && [S1, 15285.8]
+[Iteration 460] Critical Failure at [S2, 12240.7] && [S1, 12250.1]
+[Iteration 461] Critical Failure at [S2, 37302.6] && [S1, 37309.2]
+[Iteration 462] Critical Failure at [S1, 32763] && [S2, 32767.8]
+[Iteration 463] Critical Failure at [S1, 11614] && [S2, 11622.2]
+[Iteration 464] Critical Failure at [S1, 27216.5] && [S2, 27221]
+[Iteration 465] Critical Failure at [S1, 13953] && [S2, 13954.5]
+[Iteration 466] Critical Failure at [S1, 20372.6] && [S2, 20374.4]
+[Iteration 467] Critical Failure at [S2, 7192.65] && [S1, 7197.28]
+[Iteration 468] Critical Failure at [S2, 11134] && [S1, 11135.1]
+[Iteration 469] Critical Failure at [S1, 1324.65] && [S2, 1333.57]
+[Iteration 470] Critical Failure at [S2, 8101.76] && [S1, 8105.21]
+[Iteration 471] Critical Failure at [S1, 4472.18] && [S2, 4474.86]
+[Iteration 472] Critical Failure at [S1, 22071.9] && [S2, 22076.6]
+[Iteration 473] Critical Failure at [S1, 8492.95] && [S2, 8501.73]
+[Iteration 474] Critical Failure at [S2, 14275.1] && [S1, 14276.1]
+[Iteration 475] Critical Failure at [S1, 15290.4] && [S2, 15294.2]
+[Iteration 476] Critical Failure at [S1, 8537.95] && [S2, 8545.44]
+[Iteration 477] Critical Failure at [S1, 10609.7] && [S2, 10618.8]
+[Iteration 478] Critical Failure at [S1, 605.765] && [S2, 615.307]
+[Iteration 479] Critical Failure at [S2, 23991] && [S1, 23991.5]
+[Iteration 480] Critical Failure at [S1, 8584.65] && [S2, 8589.87]
+[Iteration 481] Critical Failure at [S1, 518.825] && [S2, 521.582]
+[Iteration 482] Critical Failure at [S1, 26127] && [S2, 26128.7]
+[Iteration 483] Critical Failure at [S1, 2148.89] && [S2, 2157.57]
+[Iteration 484] Critical Failure at [S2, 12052.6] && [S1, 12053.8]
+[Iteration 485] Critical Failure at [S2, 4147.55] && [S1, 4151.12]
+[Iteration 486] Critical Failure at [S2, 862.059] && [S1, 869.528]
+[Iteration 487] Critical Failure at [S1, 23032.8] && [S2, 23040.7]
+[Iteration 488] Critical Failure at [S2, 4876.75] && [S1, 4878.1]
+[Iteration 489] Critical Failure at [S2, 540.585] && [S1, 549.102]
+[Iteration 490] Critical Failure at [S2, 20852.3] && [S1, 20853.5]
+[Iteration 491] Critical Failure at [S1, 18308.2] && [S2, 18318]
+[Iteration 492] Critical Failure at [S1, 5202.67] && [S2, 5212.28]
+[Iteration 493] Critical Failure at [S1, 35638.9] && [S2, 35643.7]
+[Iteration 494] Critical Failure at [S2, 6605.14] && [S1, 6611.15]
+[Iteration 495] Critical Failure at [S1, 5045.25] && [S2, 5051.66]
+[Iteration 496] Critical Failure at [S2, 2194.22] && [S1, 2200.75]
+[Iteration 497] Critical Failure at [S2, 15179.1] && [S1, 15185.5]
+[Iteration 498] Critical Failure at [S1, 9126.79] && [S2, 9127.42]
+[Iteration 499] Critical Failure at [S1, 7154.21] && [S2, 7162.12]
+[Iteration 500] Critical Failure at [S1, 22196.6] && [S2, 22199.4]
+[Iteration 501] Critical Failure at [S1, 61216] && [S2, 61219]
+[Iteration 502] Critical Failure at [S1, 48821.8] && [S2, 48828.4]
+[Iteration 503] Critical Failure at [S1, 3304.77] && [S2, 3310.11]
+[Iteration 504] Critical Failure at [S1, 862.673] && [S2, 862.695]
+[Iteration 505] Critical Failure at [S2, 22834.7] && [S1, 22837.8]
+[Iteration 506] Critical Failure at [S2, 35175.6] && [S1, 35183.8]
+[Iteration 507] Critical Failure at [S1, 2706.7] && [S2, 2716.46]
+[Iteration 508] Critical Failure at [S1, 12594.7] && [S2, 12596.4]
+[Iteration 509] Critical Failure at [S1, 5834.36] && [S2, 5836.25]
+[Iteration 510] Critical Failure at [S1, 2526.55] && [S2, 2531.79]
+[Iteration 511] Critical Failure at [S2, 5452.75] && [S1, 5454.23]
+[Iteration 512] Critical Failure at [S1, 2765.66] && [S2, 2765.9]
+[Iteration 513] Critical Failure at [S1, 2489.38] && [S2, 2489.81]
+[Iteration 514] Critical Failure at [S1, 1320.27] && [S2, 1323.45]
+[Iteration 515] Critical Failure at [S1, 41365.2] && [S2, 41373]
+[Iteration 516] Critical Failure at [S2, 2382.59] && [S1, 2386.77]
+[Iteration 517] Critical Failure at [S1, 8285.1] && [S2, 8290.58]
+[Iteration 518] Critical Failure at [S2, 2683.22] && [S1, 2684.44]
+[Iteration 519] Critical Failure at [S2, 22277.1] && [S1, 22278.6]
+[Iteration 520] Critical Failure at [S2, 51160.3] && [S1, 51164.5]
+[Iteration 521] Critical Failure at [S1, 17096.9] && [S2, 17106.6]
+[Iteration 522] Critical Failure at [S1, 5685.91] && [S2, 5688.99]
+[Iteration 523] Critical Failure at [S1, 4618.73] && [S2, 4622.95]
+[Iteration 524] Critical Failure at [S2, 32133.7] && [S1, 32141.1]
+[Iteration 525] Critical Failure at [S2, 12632] && [S1, 12638.9]
+[Iteration 526] Critical Failure at [S1, 11037.6] && [S2, 11044.5]
+[Iteration 527] Critical Failure at [S1, 4789.08] && [S2, 4789.33]
+[Iteration 528] Critical Failure at [S2, 14266.7] && [S1, 14267]
+[Iteration 529] Critical Failure at [S2, 21850.9] && [S1, 21856.1]
+[Iteration 530] Critical Failure at [S2, 22498.2] && [S1, 22507.8]
+[Iteration 531] Critical Failure at [S2, 7332.45] && [S1, 7341.88]
+[Iteration 532] Critical Failure at [S1, 8419.52] && [S2, 8422.54]
+[Iteration 533] Critical Failure at [S2, 5109.74] && [S1, 5116.85]
+[Iteration 534] Critical Failure at [S1, 33841.4] && [S2, 33842.3]
+[Iteration 535] Critical Failure at [S1, 5685.98] && [S2, 5688.45]
+[Iteration 536] Critical Failure at [S1, 559.778] && [S2, 566.672]
+[Iteration 537] Critical Failure at [S1, 9485.63] && [S2, 9486.42]
+[Iteration 538] Critical Failure at [S1, 7563.18] && [S2, 7564.52]
+[Iteration 539] Critical Failure at [S1, 8137.07] && [S2, 8139.4]
+[Iteration 540] Critical Failure at [S2, 9429.34] && [S1, 9437.1]
+[Iteration 541] Critical Failure at [S2, 2234.37] && [S1, 2243.45]
+[Iteration 542] Critical Failure at [S2, 16321] && [S1, 16324.8]
+[Iteration 543] Critical Failure at [S2, 10574.2] && [S1, 10575.6]
+[Iteration 544] Critical Failure at [S2, 10245.2] && [S1, 10252.4]
+[Iteration 545] Critical Failure at [S2, 4372.55] && [S1, 4374.4]
+[Iteration 546] Critical Failure at [S2, 3458.67] && [S1, 3465.85]
+[Iteration 547] Critical Failure at [S1, 10007.7] && [S2, 10017.5]
+[Iteration 548] Critical Failure at [S1, 8325.79] && [S2, 8327.17]
+[Iteration 549] Critical Failure at [S1, 49191.8] && [S2, 49193.9]
+[Iteration 550] Critical Failure at [S2, 5456.24] && [S1, 5463.59]
+[Iteration 551] Critical Failure at [S1, 3024.42] && [S2, 3026.2]
+[Iteration 552] Critical Failure at [S1, 10657.8] && [S2, 10667.1]
+[Iteration 553] Critical Failure at [S2, 2586.08] && [S1, 2594.94]
+[Iteration 554] Critical Failure at [S2, 4834.85] && [S1, 4835.2]
+[Iteration 555] Critical Failure at [S1, 15352.2] && [S2, 15361.6]
+[Iteration 556] Critical Failure at [S1, 2108.34] && [S2, 2116.52]
+[Iteration 557] Critical Failure at [S1, 18921.7] && [S2, 18927.4]
+[Iteration 558] Critical Failure at [S2, 8791.91] && [S1, 8801.48]
+[Iteration 559] Critical Failure at [S1, 18708.6] && [S2, 18709.4]
+[Iteration 560] Critical Failure at [S1, 2210.21] && [S2, 2210.99]
+[Iteration 561] Critical Failure at [S2, 120.175] && [S1, 121.453]
+[Iteration 562] Critical Failure at [S2, 14998.2] && [S1, 15007]
+[Iteration 563] Critical Failure at [S1, 23341] && [S2, 23347.4]
+[Iteration 564] Critical Failure at [S2, 21120.8] && [S1, 21130.6]
+[Iteration 565] Critical Failure at [S1, 3582.29] && [S2, 3584.16]
+[Iteration 566] Critical Failure at [S1, 11172.6] && [S2, 11175.6]
+[Iteration 567] Critical Failure at [S2, 5701.41] && [S1, 5705.87]
+[Iteration 568] Critical Failure at [S2, 46689.6] && [S1, 46695.8]
+[Iteration 569] Critical Failure at [S1, 5461.34] && [S2, 5463.46]
+[Iteration 570] Critical Failure at [S2, 15805.1] && [S1, 15812.8]
+[Iteration 571] Critical Failure at [S1, 20345.7] && [S2, 20355.1]
+[Iteration 572] Critical Failure at [S1, 2672.98] && [S2, 2681.93]
+[Iteration 573] Critical Failure at [S2, 19835.8] && [S1, 19837.5]
+[Iteration 574] Critical Failure at [S1, 5563.22] && [S2, 5566.93]
+[Iteration 575] Critical Failure at [S1, 9884.73] && [S2, 9889.15]
+[Iteration 576] Critical Failure at [S1, 33902.3] && [S2, 33908.2]
+[Iteration 577] Critical Failure at [S1, 3210.27] && [S2, 3212.89]
+[Iteration 578] Critical Failure at [S1, 2521.34] && [S2, 2530.29]
+[Iteration 579] Critical Failure at [S2, 6977.54] && [S1, 6980.1]
+[Iteration 580] Critical Failure at [S2, 4087.05] && [S1, 4096.92]
+[Iteration 581] Critical Failure at [S1, 1180.36] && [S2, 1189.56]
+[Iteration 582] Critical Failure at [S2, 3373.68] && [S1, 3376.86]
+[Iteration 583] Critical Failure at [S2, 198.271] && [S1, 206.668]
+[Iteration 584] Critical Failure at [S1, 35.7555] && [S2, 45.5631]
+[Iteration 585] Critical Failure at [S1, 3133.9] && [S2, 3141.47]
+[Iteration 586] Critical Failure at [S2, 3232.9] && [S1, 3236.71]
+[Iteration 587] Critical Failure at [S2, 9445.7] && [S1, 9447.06]
+[Iteration 588] Critical Failure at [S1, 22771.8] && [S2, 22773.3]
+[Iteration 589] Critical Failure at [S1, 4569.35] && [S2, 4579.12]
+[Iteration 590] Critical Failure at [S1, 25379] && [S2, 25383]
+[Iteration 591] Critical Failure at [S1, 17579.3] && [S2, 17583.7]
+[Iteration 592] Critical Failure at [S2, 27791.1] && [S1, 27795.1]
+[Iteration 593] Critical Failure at [S2, 2767.32] && [S1, 2776.39]
+[Iteration 594] Critical Failure at [S1, 9882.03] && [S2, 9887.48]
+[Iteration 595] Critical Failure at [S1, 13939] && [S2, 13943.3]
+[Iteration 596] Critical Failure at [S2, 4970.05] && [S1, 4973.09]
+[Iteration 597] Critical Failure at [S1, 18679.8] && [S2, 18689.4]
+[Iteration 598] Critical Failure at [S2, 9745.17] && [S1, 9748.31]
+[Iteration 599] Critical Failure at [S1, 35876.3] && [S2, 35885.4]
+[Iteration 600] Critical Failure at [S2, 16388.2] && [S1, 16392]
+[Iteration 601] Critical Failure at [S1, 5136.36] && [S2, 5137.77]
+[Iteration 602] Critical Failure at [S2, 2908.04] && [S1, 2912.27]
+[Iteration 603] Critical Failure at [S2, 7925.21] && [S1, 7928.28]
+[Iteration 604] Critical Failure at [S1, 19199.5] && [S2, 19199.7]
+[Iteration 605] Critical Failure at [S2, 8253.54] && [S1, 8262.99]
+[Iteration 606] Critical Failure at [S1, 11872.3] && [S2, 11878.1]
+[Iteration 607] Critical Failure at [S1, 37676.4] && [S2, 37684.8]
+[Iteration 608] Critical Failure at [S1, 44631.1] && [S2, 44633]
+[Iteration 609] Critical Failure at [S2, 11003] && [S1, 11005.5]
+[Iteration 610] Critical Failure at [S1, 20894.6] && [S2, 20895.9]
+[Iteration 611] Critical Failure at [S2, 8738.42] && [S1, 8743.7]
+[Iteration 612] Critical Failure at [S1, 3179.04] && [S2, 3187.5]
+[Iteration 613] Critical Failure at [S1, 1085.79] && [S2, 1090.06]
+[Iteration 614] Critical Failure at [S2, 6720.84] && [S1, 6727.08]
+[Iteration 615] Critical Failure at [S1, 50585] && [S2, 50592.5]
+[Iteration 616] Critical Failure at [S2, 1987.57] && [S1, 1987.6]
+[Iteration 617] Critical Failure at [S1, 28171.4] && [S2, 28180.4]
+[Iteration 618] Critical Failure at [S2, 11288.1] && [S1, 11292.4]
+[Iteration 619] Critical Failure at [S2, 57081.8] && [S1, 57087.3]
+[Iteration 620] Critical Failure at [S1, 16705.1] && [S2, 16705.3]
+[Iteration 621] Critical Failure at [S1, 6341.54] && [S2, 6342.72]
+[Iteration 622] Critical Failure at [S1, 13079.3] && [S2, 13086.1]
+[Iteration 623] Critical Failure at [S2, 10918.3] && [S1, 10922.3]
+[Iteration 624] Critical Failure at [S1, 17365.9] && [S2, 17366.9]
+[Iteration 625] Critical Failure at [S2, 1696.56] && [S1, 1700.58]
+[Iteration 626] Critical Failure at [S1, 1382.05] && [S2, 1383.58]
+[Iteration 627] Critical Failure at [S2, 11183] && [S1, 11192.5]
+[Iteration 628] Critical Failure at [S2, 11507.5] && [S1, 11508.8]
+[Iteration 629] Critical Failure at [S2, 4544.75] && [S1, 4550]
+[Iteration 630] Critical Failure at [S1, 161.158] && [S2, 167.629]
+[Iteration 631] Critical Failure at [S1, 6275.92] && [S2, 6279.82]
+[Iteration 632] Critical Failure at [S2, 19700.2] && [S1, 19702.5]
+[Iteration 633] Critical Failure at [S2, 13961.5] && [S1, 13962.1]
+[Iteration 634] Critical Failure at [S2, 11011.9] && [S1, 11019.4]
+[Iteration 635] Critical Failure at [S1, 2272.08] && [S2, 2277.01]
+[Iteration 636] Critical Failure at [S1, 2943.46] && [S2, 2950.28]
+[Iteration 637] Critical Failure at [S1, 26911.4] && [S2, 26921.2]
+[Iteration 638] Critical Failure at [S2, 10136.5] && [S1, 10140.7]
+[Iteration 639] Critical Failure at [S2, 7853.76] && [S1, 7861.58]
+[Iteration 640] Critical Failure at [S2, 13713.6] && [S1, 13714.9]
+[Iteration 641] Critical Failure at [S1, 921.465] && [S2, 927.124]
+[Iteration 642] Critical Failure at [S2, 2457.15] && [S1, 2460.34]
+[Iteration 643] Critical Failure at [S2, 4738.86] && [S1, 4739.03]
+[Iteration 644] Critical Failure at [S2, 3924.05] && [S1, 3927.65]
+[Iteration 645] Critical Failure at [S1, 28984.7] && [S2, 28992.2]
+[Iteration 646] Critical Failure at [S1, 21587.3] && [S2, 21590.8]
+[Iteration 647] Critical Failure at [S2, 7703.2] && [S1, 7705.46]
+[Iteration 648] Critical Failure at [S2, 5074.93] && [S1, 5083.31]
+[Iteration 649] Critical Failure at [S2, 32687.7] && [S1, 32697.3]
+[Iteration 650] Critical Failure at [S2, 11919.6] && [S1, 11929.5]
+[Iteration 651] Critical Failure at [S1, 22907] && [S2, 22909.5]
+[Iteration 652] Critical Failure at [S2, 13212] && [S1, 13217.8]
+[Iteration 653] Critical Failure at [S1, 11790.9] && [S2, 11795]
+[Iteration 654] Critical Failure at [S1, 4709.12] && [S2, 4716.73]
+[Iteration 655] Critical Failure at [S1, 23282.2] && [S2, 23284.5]
+[Iteration 656] Critical Failure at [S2, 36415.8] && [S1, 36422.6]
+[Iteration 657] Critical Failure at [S2, 34488.3] && [S1, 34490.7]
+[Iteration 658] Critical Failure at [S1, 1811.75] && [S2, 1813.5]
+[Iteration 659] Critical Failure at [S1, 7041.52] && [S2, 7045.5]
+[Iteration 660] Critical Failure at [S2, 57260.7] && [S1, 57269.3]
+[Iteration 661] Critical Failure at [S1, 25299.1] && [S2, 25303.1]
+[Iteration 662] Critical Failure at [S1, 4406.12] && [S2, 4407.53]
+[Iteration 663] Critical Failure at [S2, 12367.4] && [S1, 12376.4]
+[Iteration 664] Critical Failure at [S1, 9008.63] && [S2, 9012.33]
+[Iteration 665] Critical Failure at [S2, 4882.96] && [S1, 4887.89]
+[Iteration 666] Critical Failure at [S1, 2081.37] && [S2, 2091.21]
+[Iteration 667] Critical Failure at [S1, 21244.5] && [S2, 21245.7]
+[Iteration 668] Critical Failure at [S2, 23360.9] && [S1, 23366]
+[Iteration 669] Critical Failure at [S2, 17351] && [S1, 17353.8]
+[Iteration 670] Critical Failure at [S1, 4877.91] && [S2, 4881.53]
+[Iteration 671] Critical Failure at [S2, 2686.79] && [S1, 2688.13]
+[Iteration 672] Critical Failure at [S1, 500.015] && [S2, 501.88]
+[Iteration 673] Critical Failure at [S2, 2800.04] && [S1, 2808.8]
+[Iteration 674] Critical Failure at [S2, 6617.37] && [S1, 6627.04]
+[Iteration 675] Critical Failure at [S1, 552.792] && [S2, 558.283]
+[Iteration 676] Critical Failure at [S2, 6749.96] && [S1, 6754.63]
+[Iteration 677] Critical Failure at [S2, 764.789] && [S1, 765.88]
+[Iteration 678] Critical Failure at [S2, 1196.28] && [S1, 1205.16]
+[Iteration 679] Critical Failure at [S1, 5904.55] && [S2, 5913.76]
+[Iteration 680] Critical Failure at [S1, 5780.71] && [S2, 5789.72]
+[Iteration 681] Critical Failure at [S2, 23569.1] && [S1, 23571.8]
+[Iteration 682] Critical Failure at [S1, 22226.9] && [S2, 22227.8]
+[Iteration 683] Critical Failure at [S2, 2661.8] && [S1, 2664.49]
+[Iteration 684] Critical Failure at [S1, 2556.48] && [S2, 2564.13]
+[Iteration 685] Critical Failure at [S2, 22791.7] && [S1, 22795.5]
+[Iteration 686] Critical Failure at [S1, 1730.07] && [S2, 1732.46]
+[Iteration 687] Critical Failure at [S2, 9047.04] && [S1, 9055.59]
+[Iteration 688] Critical Failure at [S1, 14145.9] && [S2, 14150.8]
+[Iteration 689] Critical Failure at [S1, 32492.2] && [S2, 32501.6]
+[Iteration 690] Critical Failure at [S2, 3706] && [S1, 3711.04]
+[Iteration 691] Critical Failure at [S2, 1727.06] && [S1, 1735.23]
+[Iteration 692] Critical Failure at [S2, 2756.09] && [S1, 2764.46]
+[Iteration 693] Critical Failure at [S2, 2197.74] && [S1, 2200.51]
+[Iteration 694] Critical Failure at [S2, 18260.1] && [S1, 18260.2]
+[Iteration 695] Critical Failure at [S1, 29513.8] && [S2, 29516.6]
+[Iteration 696] Critical Failure at [S2, 4495.78] && [S1, 4500.22]
+[Iteration 697] Critical Failure at [S2, 522.482] && [S1, 530.042]
+[Iteration 698] Critical Failure at [S2, 27472.8] && [S1, 27480.4]
+[Iteration 699] Critical Failure at [S2, 17808.2] && [S1, 17815.8]
+[Iteration 700] Critical Failure at [S1, 24243.1] && [S2, 24249.8]
+[Iteration 701] Critical Failure at [S1, 5573.13] && [S2, 5580.89]
+[Iteration 702] Critical Failure at [S2, 33283.2] && [S1, 33290.5]
+[Iteration 703] Critical Failure at [S1, 14771] && [S2, 14774.9]
+[Iteration 704] Critical Failure at [S1, 16791.3] && [S2, 16798.7]
+[Iteration 705] Critical Failure at [S1, 37112.7] && [S2, 37120.4]
+[Iteration 706] Critical Failure at [S1, 13614.2] && [S2, 13618.5]
+[Iteration 707] Critical Failure at [S1, 14526.9] && [S2, 14528.5]
+[Iteration 708] Critical Failure at [S2, 827.92] && [S1, 836.639]
+[Iteration 709] Critical Failure at [S2, 3894.58] && [S1, 3900.52]
+[Iteration 710] Critical Failure at [S2, 2413.92] && [S1, 2420.97]
+[Iteration 711] Critical Failure at [S2, 11061.1] && [S1, 11066.2]
+[Iteration 712] Critical Failure at [S1, 6444.51] && [S2, 6452.84]
+[Iteration 713] Critical Failure at [S1, 641.857] && [S2, 641.896]
+[Iteration 714] Critical Failure at [S1, 39396.4] && [S2, 39400.4]
+[Iteration 715] Critical Failure at [S1, 19396] && [S2, 19396.3]
+[Iteration 716] Critical Failure at [S2, 5407.39] && [S1, 5411.19]
+[Iteration 717] Critical Failure at [S2, 2063.41] && [S1, 2064.28]
+[Iteration 718] Critical Failure at [S2, 8897.88] && [S1, 8904.17]
+[Iteration 719] Critical Failure at [S2, 2115.83] && [S1, 2121.56]
+[Iteration 720] Critical Failure at [S1, 18015.1] && [S2, 18022.9]
+[Iteration 721] Critical Failure at [S2, 88.957] && [S1, 97.4825]
+[Iteration 722] Critical Failure at [S2, 9487.45] && [S1, 9488.69]
+[Iteration 723] Critical Failure at [S1, 8434.01] && [S2, 8442.1]
+[Iteration 724] Critical Failure at [S2, 6170.55] && [S1, 6175.85]
+[Iteration 725] Critical Failure at [S2, 10322.7] && [S1, 10330]
+[Iteration 726] Critical Failure at [S2, 1558.82] && [S1, 1564.94]
+[Iteration 727] Critical Failure at [S1, 12098.7] && [S2, 12100.6]
+[Iteration 728] Critical Failure at [S1, 22168.3] && [S2, 22176.6]
+[Iteration 729] Critical Failure at [S1, 10422.1] && [S2, 10428.6]
+[Iteration 730] Critical Failure at [S1, 7940.25] && [S2, 7944.93]
+[Iteration 731] Critical Failure at [S2, 10288.7] && [S1, 10290.1]
+[Iteration 732] Critical Failure at [S1, 7147.98] && [S2, 7155.85]
+[Iteration 733] Critical Failure at [S2, 7715.59] && [S1, 7716.47]
+[Iteration 734] Critical Failure at [S1, 7000.43] && [S2, 7004.04]
+[Iteration 735] Critical Failure at [S2, 7370.22] && [S1, 7372.27]
+[Iteration 736] Critical Failure at [S1, 3043.84] && [S2, 3050.6]
+[Iteration 737] Critical Failure at [S1, 16990.8] && [S2, 16995.7]
+[Iteration 738] Critical Failure at [S2, 1887.74] && [S1, 1895.51]
+[Iteration 739] Critical Failure at [S1, 25845] && [S2, 25847]
+[Iteration 740] Critical Failure at [S2, 23074.1] && [S1, 23075.1]
+[Iteration 741] Critical Failure at [S1, 44220.2] && [S2, 44228]
+[Iteration 742] Critical Failure at [S2, 1102.08] && [S1, 1110.98]
+[Iteration 743] Critical Failure at [S2, 31267.7] && [S1, 31269]
+[Iteration 744] Critical Failure at [S2, 7513.23] && [S1, 7518.6]
+[Iteration 745] Critical Failure at [S1, 13021.4] && [S2, 13028.8]
+[Iteration 746] Critical Failure at [S1, 9328.68] && [S2, 9329.37]
+[Iteration 747] Critical Failure at [S2, 6904.3] && [S1, 6909.66]
+[Iteration 748] Critical Failure at [S1, 26195.5] && [S2, 26205]
+[Iteration 749] Critical Failure at [S2, 7902.53] && [S1, 7911.71]
+[Iteration 750] Critical Failure at [S2, 1616.63] && [S1, 1625.62]
+[Iteration 751] Critical Failure at [S2, 41212.9] && [S1, 41214.1]
+[Iteration 752] Critical Failure at [S1, 2140.8] && [S2, 2149.37]
+[Iteration 753] Critical Failure at [S2, 6721.93] && [S1, 6722.98]
+[Iteration 754] Critical Failure at [S2, 14349.3] && [S1, 14353.1]
+[Iteration 755] Critical Failure at [S1, 5835.06] && [S2, 5835.62]
+[Iteration 756] Critical Failure at [S1, 9495.39] && [S2, 9503.56]
+[Iteration 757] Critical Failure at [S2, 22188] && [S1, 22191.2]
+[Iteration 758] Critical Failure at [S2, 4287.57] && [S1, 4297.43]
+[Iteration 759] Critical Failure at [S1, 51324.3] && [S2, 51327.4]
+[Iteration 760] Critical Failure at [S2, 639.399] && [S1, 640.276]
+[Iteration 761] Critical Failure at [S1, 43770.3] && [S2, 43773.4]
+[Iteration 762] Critical Failure at [S2, 5308.03] && [S1, 5308.35]
+[Iteration 763] Critical Failure at [S1, 2514.21] && [S2, 2522.87]
+[Iteration 764] Critical Failure at [S1, 14069.8] && [S2, 14071.3]
+[Iteration 765] Critical Failure at [S1, 14288] && [S2, 14295.6]
+[Iteration 766] Critical Failure at [S2, 873.411] && [S1, 875.363]
+[Iteration 767] Critical Failure at [S1, 15435.3] && [S2, 15444.2]
+[Iteration 768] Critical Failure at [S1, 17877.2] && [S2, 17881.4]
+[Iteration 769] Critical Failure at [S1, 5664.82] && [S2, 5670.5]
+[Iteration 770] Critical Failure at [S1, 11782.4] && [S2, 11786.2]
+[Iteration 771] Critical Failure at [S1, 25856.4] && [S2, 25859.3]
+[Iteration 772] Critical Failure at [S1, 2814.78] && [S2, 2815.93]
+[Iteration 773] Critical Failure at [S2, 13521.8] && [S1, 13525.8]
+[Iteration 774] Critical Failure at [S1, 24.9641] && [S2, 30.8884]
+[Iteration 775] Critical Failure at [S2, 2623.4] && [S1, 2630.53]
+[Iteration 776] Critical Failure at [S2, 19884.2] && [S1, 19884.2]
+[Iteration 777] Critical Failure at [S2, 35033.6] && [S1, 35037.3]
+[Iteration 778] Critical Failure at [S1, 13424.4] && [S2, 13430.5]
+[Iteration 779] Critical Failure at [S2, 5650.16] && [S1, 5660.07]
+[Iteration 780] Critical Failure at [S2, 6913.75] && [S1, 6918.85]
+[Iteration 781] Critical Failure at [S2, 29108.4] && [S1, 29110.4]
+[Iteration 782] Critical Failure at [S2, 2069.87] && [S1, 2079.27]
+[Iteration 783] Critical Failure at [S1, 25713.2] && [S2, 25718.7]
+[Iteration 784] Critical Failure at [S1, 11002.9] && [S2, 11007.4]
+[Iteration 785] Critical Failure at [S1, 3100.37] && [S2, 3100.98]
+[Iteration 786] Critical Failure at [S2, 6628] && [S1, 6634.28]
+[Iteration 787] Critical Failure at [S1, 14704.7] && [S2, 14713.4]
+[Iteration 788] Critical Failure at [S1, 5504.86] && [S2, 5510.49]
+[Iteration 789] Critical Failure at [S1, 14723.1] && [S2, 14728]
+[Iteration 790] Critical Failure at [S2, 12762.7] && [S1, 12770.1]
+[Iteration 791] Critical Failure at [S1, 12172.5] && [S2, 12174.4]
+[Iteration 792] Critical Failure at [S1, 1698.91] && [S2, 1705.2]
+[Iteration 793] Critical Failure at [S2, 24352.1] && [S1, 24360.9]
+[Iteration 794] Critical Failure at [S1, 63.4772] && [S2, 67.2579]
+[Iteration 795] Critical Failure at [S2, 29088.3] && [S1, 29093.3]
+[Iteration 796] Critical Failure at [S2, 32780.7] && [S1, 32790.3]
+[Iteration 797] Critical Failure at [S2, 4997.4] && [S1, 5003.09]
+[Iteration 798] Critical Failure at [S2, 6358.8] && [S1, 6366.81]
+[Iteration 799] Critical Failure at [S2, 15540] && [S1, 15544.6]
+[Iteration 800] Critical Failure at [S1, 7274.99] && [S2, 7278.45]
+[Iteration 801] Critical Failure at [S2, 18127.9] && [S1, 18131.7]
+[Iteration 802] Critical Failure at [S1, 5148.29] && [S2, 5149.64]
+[Iteration 803] Critical Failure at [S2, 6232.95] && [S1, 6237.19]
+[Iteration 804] Critical Failure at [S1, 7312.45] && [S2, 7318.49]
+[Iteration 805] Critical Failure at [S2, 1952.37] && [S1, 1953.71]
+[Iteration 806] Critical Failure at [S1, 21157.4] && [S2, 21157.8]
+[Iteration 807] Critical Failure at [S2, 39225.4] && [S1, 39225.9]
+[Iteration 808] Critical Failure at [S1, 1946.46] && [S2, 1948.25]
+[Iteration 809] Critical Failure at [S2, 715.226] && [S1, 715.765]
+[Iteration 810] Critical Failure at [S1, 7744.28] && [S2, 7749.73]
+[Iteration 811] Critical Failure at [S2, 25434.7] && [S1, 25444.5]
+[Iteration 812] Critical Failure at [S1, 5615.68] && [S2, 5617.34]
+[Iteration 813] Critical Failure at [S2, 3273.23] && [S1, 3277.69]
+[Iteration 814] Critical Failure at [S2, 11070.8] && [S1, 11072.2]
+[Iteration 815] Critical Failure at [S1, 875.536] && [S2, 882.598]
+[Iteration 816] Critical Failure at [S1, 64547] && [S2, 64550.4]
+[Iteration 817] Critical Failure at [S1, 17178.2] && [S2, 17182.4]
+[Iteration 818] Critical Failure at [S1, 3529.56] && [S2, 3532.41]
+[Iteration 819] Critical Failure at [S2, 16170.1] && [S1, 16175.2]
+[Iteration 820] Critical Failure at [S1, 11295.1] && [S2, 11305]
+[Iteration 821] Critical Failure at [S1, 24598.8] && [S2, 24608.2]
+[Iteration 822] Critical Failure at [S2, 46544.5] && [S1, 46546.8]
+[Iteration 823] Critical Failure at [S1, 10555.6] && [S2, 10558.1]
+[Iteration 824] Critical Failure at [S2, 58575.4] && [S1, 58583.5]
+[Iteration 825] Critical Failure at [S2, 1032.19] && [S1, 1041.71]
+[Iteration 826] Critical Failure at [S2, 8982.03] && [S1, 8984.62]
+[Iteration 827] Critical Failure at [S1, 5051.44] && [S2, 5056.33]
+[Iteration 828] Critical Failure at [S2, 2355.48] && [S1, 2361.92]
+[Iteration 829] Critical Failure at [S1, 2254.88] && [S2, 2259.36]
+[Iteration 830] Critical Failure at [S2, 15398.9] && [S1, 15404.6]
+[Iteration 831] Critical Failure at [S2, 15293.2] && [S1, 15299]
+[Iteration 832] Critical Failure at [S1, 33911.2] && [S2, 33913.2]
+[Iteration 833] Critical Failure at [S2, 16149] && [S1, 16153.3]
+[Iteration 834] Critical Failure at [S2, 696.815] && [S1, 700.768]
+[Iteration 835] Critical Failure at [S2, 8662.74] && [S1, 8672.21]
+[Iteration 836] Critical Failure at [S1, 25308.7] && [S2, 25317.5]
+[Iteration 837] Critical Failure at [S2, 48677.3] && [S1, 48681.8]
+[Iteration 838] Critical Failure at [S1, 3281.89] && [S2, 3290.4]
+[Iteration 839] Critical Failure at [S1, 1337.52] && [S2, 1344.6]
+[Iteration 840] Critical Failure at [S1, 4707.07] && [S2, 4715.61]
+[Iteration 841] Critical Failure at [S2, 5526] && [S1, 5532.66]
+[Iteration 842] Critical Failure at [S2, 14699.3] && [S1, 14706.5]
+[Iteration 843] Critical Failure at [S2, 25927.6] && [S1, 25935.4]
+[Iteration 844] Critical Failure at [S2, 10980.7] && [S1, 10989.9]
+[Iteration 845] Critical Failure at [S1, 32580.6] && [S2, 32583.7]
+[Iteration 846] Critical Failure at [S2, 83.787] && [S1, 87.5738]
+[Iteration 847] Critical Failure at [S2, 2648.94] && [S1, 2650.23]
+[Iteration 848] Critical Failure at [S2, 7367.6] && [S1, 7368.26]
+[Iteration 849] Critical Failure at [S2, 7236.09] && [S1, 7242.82]
+[Iteration 850] Critical Failure at [S1, 5804.03] && [S2, 5806.2]
+[Iteration 851] Critical Failure at [S2, 31387.1] && [S1, 31390.7]
+[Iteration 852] Critical Failure at [S1, 11748.7] && [S2, 11752.9]
+[Iteration 853] Critical Failure at [S1, 3914.58] && [S2, 3917.38]
+[Iteration 854] Critical Failure at [S2, 15991.7] && [S1, 15999.3]
+[Iteration 855] Critical Failure at [S1, 2133.5] && [S2, 2135.04]
+[Iteration 856] Critical Failure at [S2, 6345.56] && [S1, 6350.19]
+[Iteration 857] Critical Failure at [S1, 8194.15] && [S2, 8195.61]
+[Iteration 858] Critical Failure at [S1, 24735.8] && [S2, 24741.3]
+[Iteration 859] Critical Failure at [S2, 610.807] && [S1, 615.878]
+[Iteration 860] Critical Failure at [S2, 15117.7] && [S1, 15121.4]
+[Iteration 861] Critical Failure at [S2, 988.215] && [S1, 995.756]
+[Iteration 862] Critical Failure at [S2, 21959.4] && [S1, 21965.1]
+[Iteration 863] Critical Failure at [S2, 7082.58] && [S1, 7083.71]
+[Iteration 864] Critical Failure at [S2, 11203.8] && [S1, 11206.2]
+[Iteration 865] Critical Failure at [S2, 25039] && [S1, 25043.3]
+[Iteration 866] Critical Failure at [S1, 13556.3] && [S2, 13557.4]
+[Iteration 867] Critical Failure at [S1, 4596.03] && [S2, 4601.09]
+[Iteration 868] Critical Failure at [S1, 18437.3] && [S2, 18437.8]
+[Iteration 869] Critical Failure at [S2, 13973.7] && [S1, 13982.7]
+[Iteration 870] Critical Failure at [S1, 39819.2] && [S2, 39824.6]
+[Iteration 871] Critical Failure at [S2, 30996.1] && [S1, 30999.7]
+[Iteration 872] Critical Failure at [S2, 17889.9] && [S1, 17891.6]
+[Iteration 873] Critical Failure at [S1, 2261.29] && [S2, 2265.55]
+[Iteration 874] Critical Failure at [S2, 6913.89] && [S1, 6923.53]
+[Iteration 875] Critical Failure at [S1, 4879.58] && [S2, 4883.73]
+[Iteration 876] Critical Failure at [S2, 16510.8] && [S1, 16519.4]
+[Iteration 877] Critical Failure at [S2, 10643.4] && [S1, 10650]
+[Iteration 878] Critical Failure at [S1, 282.675] && [S2, 285.97]
+[Iteration 879] Critical Failure at [S1, 9815.94] && [S2, 9820.75]
+[Iteration 880] Critical Failure at [S2, 14337.7] && [S1, 14347.3]
+[Iteration 881] Critical Failure at [S1, 1937.88] && [S2, 1947.64]
+[Iteration 882] Critical Failure at [S1, 22089.3] && [S2, 22095.1]
+[Iteration 883] Critical Failure at [S1, 29268.6] && [S2, 29270.8]
+[Iteration 884] Critical Failure at [S1, 1258.95] && [S2, 1262.87]
+[Iteration 885] Critical Failure at [S1, 4270.25] && [S2, 4274.97]
+[Iteration 886] Critical Failure at [S1, 4836.02] && [S2, 4837.81]
+[Iteration 887] Critical Failure at [S1, 25860.8] && [S2, 25869.2]
+[Iteration 888] Critical Failure at [S2, 1122.79] && [S1, 1126.75]
+[Iteration 889] Critical Failure at [S1, 192.9] && [S2, 195.935]
+[Iteration 890] Critical Failure at [S1, 22212.7] && [S2, 22218]
+[Iteration 891] Critical Failure at [S2, 10247.4] && [S1, 10248.3]
+[Iteration 892] Critical Failure at [S2, 11937] && [S1, 11943.5]
+[Iteration 893] Critical Failure at [S2, 2309.19] && [S1, 2311.52]
+[Iteration 894] Critical Failure at [S1, 7636.79] && [S2, 7642.28]
+[Iteration 895] Critical Failure at [S1, 30808.7] && [S2, 30812.7]
+[Iteration 896] Critical Failure at [S1, 4958.87] && [S2, 4959.13]
+[Iteration 897] Critical Failure at [S2, 22694.7] && [S1, 22703.9]
+[Iteration 898] Critical Failure at [S1, 23557.3] && [S2, 23561.9]
+[Iteration 899] Critical Failure at [S2, 30697.4] && [S1, 30704.9]
+[Iteration 900] Critical Failure at [S2, 1163.28] && [S1, 1168.56]
+[Iteration 901] Critical Failure at [S2, 19403.4] && [S1, 19404.7]
+[Iteration 902] Critical Failure at [S1, 37133.3] && [S2, 37142.6]
+[Iteration 903] Critical Failure at [S1, 8479.57] && [S2, 8482.33]
+[Iteration 904] Critical Failure at [S1, 3728] && [S2, 3731.59]
+[Iteration 905] Critical Failure at [S2, 14430.6] && [S1, 14436.5]
+[Iteration 906] Critical Failure at [S1, 2210.21] && [S2, 2218.89]
+[Iteration 907] Critical Failure at [S1, 3272.76] && [S2, 3278.45]
+[Iteration 908] Critical Failure at [S2, 4492.18] && [S1, 4493.54]
+[Iteration 909] Critical Failure at [S1, 4279.88] && [S2, 4281.09]
+[Iteration 910] Critical Failure at [S2, 3693.34] && [S1, 3694.83]
+[Iteration 911] Critical Failure at [S2, 3810.36] && [S1, 3819.43]
+[Iteration 912] Critical Failure at [S1, 35723.2] && [S2, 35731.6]
+[Iteration 913] Critical Failure at [S1, 4162.6] && [S2, 4165.14]
+[Iteration 914] Critical Failure at [S2, 688.841] && [S1, 694.546]
+[Iteration 915] Critical Failure at [S2, 1323.26] && [S1, 1327.21]
+[Iteration 916] Critical Failure at [S1, 14802.1] && [S2, 14810.3]
+[Iteration 917] Critical Failure at [S2, 35157.8] && [S1, 35163.1]
+[Iteration 918] Critical Failure at [S2, 11213.4] && [S1, 11221]
+[Iteration 919] Critical Failure at [S2, 8529.01] && [S1, 8529.49]
+[Iteration 920] Critical Failure at [S2, 10231.1] && [S1, 10239.8]
+[Iteration 921] Critical Failure at [S1, 18213.1] && [S2, 18222.6]
+[Iteration 922] Critical Failure at [S1, 39501.6] && [S2, 39505.6]
+[Iteration 923] Critical Failure at [S1, 12148.9] && [S2, 12151.6]
+[Iteration 924] Critical Failure at [S1, 3774.18] && [S2, 3783.85]
+[Iteration 925] Critical Failure at [S1, 2315.92] && [S2, 2324.26]
+[Iteration 926] Critical Failure at [S2, 14065.5] && [S1, 14073.1]
+[Iteration 927] Critical Failure at [S2, 14267.3] && [S1, 14275.3]
+[Iteration 928] Critical Failure at [S2, 11230.6] && [S1, 11232.5]
+[Iteration 929] Critical Failure at [S1, 2075.15] && [S2, 2075.22]
+[Iteration 930] Critical Failure at [S2, 23716.1] && [S1, 23723.3]
+[Iteration 931] Critical Failure at [S2, 12171.5] && [S1, 12179.1]
+[Iteration 932] Critical Failure at [S2, 1555.95] && [S1, 1557.32]
+[Iteration 933] Critical Failure at [S1, 480.907] && [S2, 483.496]
+[Iteration 934] Critical Failure at [S1, 2338.66] && [S2, 2346.63]
+[Iteration 935] Critical Failure at [S1, 27934.7] && [S2, 27941.7]
+[Iteration 936] Critical Failure at [S1, 28335.7] && [S2, 28339.5]
+[Iteration 937] Critical Failure at [S1, 2066.37] && [S2, 2069.39]
+[Iteration 938] Critical Failure at [S2, 6897.69] && [S1, 6907.06]
+[Iteration 939] Critical Failure at [S2, 5269.01] && [S1, 5275.96]
+[Iteration 940] Critical Failure at [S2, 9713.86] && [S1, 9719.27]
+[Iteration 941] Critical Failure at [S1, 6813.17] && [S2, 6815.43]
+[Iteration 942] Critical Failure at [S1, 7728.5] && [S2, 7733.14]
+[Iteration 943] Critical Failure at [S2, 1376.62] && [S1, 1381.95]
+[Iteration 944] Critical Failure at [S2, 20149.2] && [S1, 20153.8]
+[Iteration 945] Critical Failure at [S2, 18179.4] && [S1, 18180.8]
+[Iteration 946] Critical Failure at [S2, 327.072] && [S1, 328.821]
+[Iteration 947] Critical Failure at [S2, 18297.3] && [S1, 18302.6]
+[Iteration 948] Critical Failure at [S2, 118.89] && [S1, 124.615]
+[Iteration 949] Critical Failure at [S2, 20620.1] && [S1, 20629]
+[Iteration 950] Critical Failure at [S1, 2110.78] && [S2, 2113.37]
+[Iteration 951] Critical Failure at [S2, 18381.7] && [S1, 18390.3]
+[Iteration 952] Critical Failure at [S1, 8384.39] && [S2, 8384.79]
+[Iteration 953] Critical Failure at [S2, 3634.98] && [S1, 3644.63]
+[Iteration 954] Critical Failure at [S1, 7449.21] && [S2, 7450.53]
+[Iteration 955] Critical Failure at [S1, 9929.92] && [S2, 9932.59]
+[Iteration 956] Critical Failure at [S1, 50017.1] && [S2, 50019.4]
+[Iteration 957] Critical Failure at [S2, 5638.46] && [S1, 5641.16]
+[Iteration 958] Critical Failure at [S2, 37856.5] && [S1, 37860.5]
+[Iteration 959] Critical Failure at [S2, 9490.18] && [S1, 9494.39]
+[Iteration 960] Critical Failure at [S1, 2609.9] && [S2, 2612.15]
+[Iteration 961] Critical Failure at [S2, 7158.37] && [S1, 7159.46]
+[Iteration 962] Critical Failure at [S2, 18103] && [S1, 18107.6]
+[Iteration 963] Critical Failure at [S2, 3203.23] && [S1, 3210.39]
+[Iteration 964] Critical Failure at [S2, 13869.3] && [S1, 13875.4]
+[Iteration 965] Critical Failure at [S1, 28109.7] && [S2, 28117.6]
+[Iteration 966] Critical Failure at [S2, 7946.83] && [S1, 7952.85]
+[Iteration 967] Critical Failure at [S1, 7760.54] && [S2, 7765.97]
+[Iteration 968] Critical Failure at [S1, 2972.99] && [S2, 2978.44]
+[Iteration 969] Critical Failure at [S1, 10585.3] && [S2, 10592.4]
+[Iteration 970] Critical Failure at [S1, 7207.99] && [S2, 7209.68]
+[Iteration 971] Critical Failure at [S2, 7924.25] && [S1, 7927.63]
+[Iteration 972] Critical Failure at [S2, 42982.5] && [S1, 42986.8]
+[Iteration 973] Critical Failure at [S1, 5261.04] && [S2, 5263.53]
+[Iteration 974] Critical Failure at [S2, 3173.2] && [S1, 3182.77]
+[Iteration 975] Critical Failure at [S2, 973.725] && [S1, 981.349]
+[Iteration 976] Critical Failure at [S1, 14442.8] && [S2, 14448.1]
+[Iteration 977] Critical Failure at [S2, 3980.81] && [S1, 3981.58]
+[Iteration 978] Critical Failure at [S2, 15298.5] && [S1, 15303]
+[Iteration 979] Critical Failure at [S1, 28783.1] && [S2, 28793]
+[Iteration 980] Critical Failure at [S2, 12893.6] && [S1, 12902.4]
+[Iteration 981] Critical Failure at [S1, 2008.22] && [S2, 2012.43]
+[Iteration 982] Critical Failure at [S2, 43260.9] && [S1, 43269.7]
+[Iteration 983] Critical Failure at [S1, 43565.5] && [S2, 43568.9]
+[Iteration 984] Critical Failure at [S2, 9472.84] && [S1, 9480.36]
+[Iteration 985] Critical Failure at [S2, 11783.8] && [S1, 11793.1]
+[Iteration 986] Critical Failure at [S1, 851.93] && [S2, 857.435]
+[Iteration 987] Critical Failure at [S2, 14677.6] && [S1, 14678.7]
+[Iteration 988] Critical Failure at [S1, 22727.7] && [S2, 22736.5]
+[Iteration 989] Critical Failure at [S2, 19694.3] && [S1, 19695.2]
+[Iteration 990] Critical Failure at [S2, 35339.5] && [S1, 35341.1]
+[Iteration 991] Critical Failure at [S2, 26450.7] && [S1, 26459.4]
+[Iteration 992] Critical Failure at [S2, 976.635] && [S1, 979.693]
+[Iteration 993] Critical Failure at [S2, 7050.88] && [S1, 7060.73]
+[Iteration 994] Critical Failure at [S1, 2228.42] && [S2, 2233.16]
+[Iteration 995] Critical Failure at [S2, 6662.96] && [S1, 6668.62]
+[Iteration 996] Critical Failure at [S2, 8113.33] && [S1, 8121.25]
+[Iteration 997] Critical Failure at [S1, 25264.4] && [S2, 25267.6]
+[Iteration 998] Critical Failure at [S2, 8796.28] && [S1, 8796.88]
+[Iteration 999] Critical Failure at [S2, 12524.9] && [S1, 12528.8]
+[Iteration 1000] Critical Failure at [S1, 8184.97] && [S2, 8190.8]
+Average failure time: 12867.4 hours
+End Problem 4 Part B--------------------------

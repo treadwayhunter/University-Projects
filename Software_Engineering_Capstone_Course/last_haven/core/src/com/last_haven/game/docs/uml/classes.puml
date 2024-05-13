@@ -1,0 +1,107 @@
+@startuml
+Entity <|-- Character
+Entity <|-- Foliage
+Entity <|-- Rock
+Entity <|-- Structure
+Foliage <|-- Tree
+Foliage <|-- Bush
+Character <|-- Villager
+Character <|-- Bandit
+
+Engine <|-- ActiveEntityEngine
+Engine <|-- StaticEntityEngine
+ActiveEntityEngine <|-- VillagerEngine
+StaticEntityEngine <|-- FoliageEngine
+StaticEntityEngine <|-- RockEngine
+StaticEntityEngine <|-- TerrainEngine
+
+Factory <|-- VillagerFactory
+Factory <|-- TerrainFactory
+Factory <|-- TreeFactory
+Factory <|-- RockFactory
+
+Entity <-- Engine
+Entity <-- Factory
+LastHaven *-- LastHavenGame
+LastHavenGame "1" *-- "*" Character
+LastHavenGame "1" *-- "*" Foliage
+LastHavenGame "1" *-- "*" Rock
+LastHavenGame "1" o-- "Structure"
+
+Entity : # Texture texture
+Entity : # Position position
+Entity : # AssetManager assetManager
+Entity : + Entity()
+Entity : + getTexture()
+Entity : + getPosition()
+Entity : + getX()
+Entity : + getY()
+Entity : + getWidth()
+Entity : + getHeight()
+Entity : # updateTexture()
+
+Character : # maxHealth
+Character : # health
+Character : # strength
+Character : # intellect
+Character : # isDead
+Character : # isSelected
+Character : #GraphPath<> currentPath
+Character : + Character()
+Character : + initStats()
+Character : + getMaxHealth()
+Character : + setMaxHealth()
+Character : + getHealth()
+Character : + setHealth()
+Character : + getStrength()
+Character : + setStrength()
+Character : + getIntellect()
+Character : + setIntellect()
+Character : + decrementHealth()
+Character : + incrementHealth()
+Character : + setDead()
+Character : + setSelected()
+Character : + deSelect()
+Character : - setPosition()
+Character : + setCurrentPath()
+Character : # move()
+Character : + update()
+
+Villager : - name
+Villager : - maxEnergy
+Villager : - energy
+Villager : - maxHunger
+Villager : - hunger
+Villager : - maxThirst
+Villager : - thirst
+Villager : + Villager()
+Villager : - movementSpeed()
+Villager : + getDetails()
+Villager : + decrementEnergy()
+Villager : + incrementEnergy()
+Villager : + decrementHunger()
+Villager : + incrementHunger()
+Villager : decrementThirst()
+Villager : incrementThirst()
+
+Engine : # camera
+Engine : # viewport
+Engine : # Spritebatch batch
+Engine : + Engine()
+Engine : + addEntity()
+Engine : + draw()
+Engine : + getEntity()
+Engine : + update()
+
+ActiveEntityEngine : # List EntityList
+ActiveEntityEngine : + ActiveEntityEngine()
+
+VillagerEngine : VillagerEngine()
+VillagerEngine : getVillager()
+
+StaticEntityEngine : # Map entityMap
+StaticEntityEngine : + StaticEntityEngine()
+StaticEntityEngine : + removeEntity()
+
+
+@enduml

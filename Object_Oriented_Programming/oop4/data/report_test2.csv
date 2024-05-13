@@ -1,0 +1,25 @@
+--------------------------------------------------
+Highest 1 number of reviews per reviewer
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+A1EE2E3N7PW666,1,5.0,0.0,5.0,0.0
+--------------------------------------------------
+Highest 1 rating discrepancies per reviewer (wrt other reviewers)
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+
+A1EE2E3N7PW666,1,5.0,0.0,5.0,0.0
+--------------------------------------------------
+Highest 1 rating variation per reviewer (wrt other reviewers)
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+A1EE2E3N7PW666,1,5.0,0.0,5.0,0.0
+--------------------------------------------------
+Highest 1 number of reviews per product
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+B000GFDAUG,1,5.0,0.0,5.0,0.0
+--------------------------------------------------
+Highest 1 rating discrepancies per product (wrt other products)
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+B000GFDAUG,1,5.0,0.0,5.0,0.0
+--------------------------------------------------
+Highest 1 rating variation per reviewer (wrt other reviewers)
+Id,degree,product avg,product st.dev,reviewer avg,reviewer st.dev
+B000GFDAUG,1,5.0,0.0,5.0,0.0

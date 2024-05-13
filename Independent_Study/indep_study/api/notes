@@ -1,0 +1,5 @@
+curl -u admin:admin http://localhost:8181/rests/data/
+opendaylight-inventry:nodes/node=openflow:231233677027398/flow-node-inventory:table=0/flow=100 
+-X PUT -d @test.json -H "Content-Type: application/json"
+
+The above command successfully created a flow. I can now likely create metering as well.

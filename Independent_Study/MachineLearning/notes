@@ -1,0 +1,27 @@
+Let's fabricate test data for an unsupervised learning model to play with
+
+
+movie_title,audience_score,critic_score,total_views
+
+for the sake of fabrication, each movie has a title, and the scores are from 0 to 1
+total_views will be weird...
+if both of the scores are high, then total_views is likely to be high
+if both of the scores are medium, then total_views is likely to be medium
+if both of the scores are low, then total_views is likely to be low
+if the critic score is high, but user score is low, then views are likely to be low
+if the critic score is low, but the user score is high, than total_views is likely to be high
+
+Low below 40
+40 < medium < 70
+70 <= high
+
+if the abs difference between critic and user is greater than 40, do something weird
+    if critic is higher, drop the views
+    if users is higher, increase the views
+
+there might be an easier way to do this
+
+add each score
+0.5+0.7 = 1.2
+multiply by the views? which will already have a random number
+0.9+0.9 = 1.8

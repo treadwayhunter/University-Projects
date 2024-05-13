@@ -1,0 +1,76 @@
+:root {
+    --main-color-1: #02343F;
+    --main-color-2: #F0EDCC;
+}
+
+* {
+    border-radius: 6px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+body {
+    background-color: var(--main-color-1);
+    margin: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.header {
+    background-color: var(--main-color-2);
+    width: 40%;
+    margin-bottom: 6px;
+}
+
+.main-content-container {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar {
+    background-color: var(--main-color-2);
+    width: 100%;
+    height: 40%;
+    margin-bottom: 6px;
+}
+
+
+
+.main-content-and-sidebar {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.main-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content p {
+    background-color: var(--main-color-2);
+    height: 100%;
+    margin: 0;
+    margin-bottom: 6px;
+}
+
+.sidebar {
+    background-color: var(--main-color-2);
+    height: 40%;
+    margin-bottom: 6px;
+}
+
+.footer {
+    background-color: var(--main-color-2);
+    width: 40%;
+    font-size: 10px;
+    height: 30%;
+    display: flex;
+    margin-bottom: 40px;
+}

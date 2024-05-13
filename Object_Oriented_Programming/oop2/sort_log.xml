@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-30T18:18:59.035465217Z</date>
+  <millis>1682878739035</millis>
+  <nanos>465217</nanos>
+  <sequence>0</sequence>
+  <logger>sort.Logging</logger>
+  <level>INFO</level>
+  <class>sort.Logging</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Started a new sort.</message>
+</record>
+<record>
+  <date>2023-04-30T18:18:59.363355237Z</date>
+  <millis>1682878739363</millis>
+  <nanos>355237</nanos>
+  <sequence>1</sequence>
+  <logger>sort.Logging</logger>
+  <level>INFO</level>
+  <class>sort.Logging</class>
+  <method>infoLog</method>
+  <thread>26</thread>
+  <message>Sorting started.</message>
+</record>
+<record>
+  <date>2023-04-30T18:19:03.422596146Z</date>
+  <millis>1682878743422</millis>
+  <nanos>596146</nanos>
+  <sequence>2</sequence>
+  <logger>sort.Logging</logger>
+  <level>INFO</level>
+  <class>sort.Logging</class>
+  <method>infoLog</method>
+  <thread>25</thread>
+  <message>Run button clicked</message>
+</record>
+<record>
+  <date>2023-04-30T18:19:14.730209431Z</date>
+  <millis>1682878754730</millis>
+  <nanos>209431</nanos>
+  <sequence>3</sequence>
+  <logger>sort.Logging</logger>
+  <level>INFO</level>
+  <class>sort.Logging</class>
+  <method>infoLog</method>
+  <thread>26</thread>
+  <message>Sorting finished</message>
+</record>
+</log>

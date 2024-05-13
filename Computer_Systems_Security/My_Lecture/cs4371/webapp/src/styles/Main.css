@@ -1,0 +1,30 @@
+.Main {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+.ButtonBox {
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 32px;
+}
+
+.MainButton {
+    height: 20%;
+    width: 75%;
+    font-size: 24px;
+    border: none;
+    background-color: green;
+    border-radius: 10px;
+}
+
+.MainButton:hover {
+    background-color: lightgreen;
+}
